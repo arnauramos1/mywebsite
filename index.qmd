@@ -1,5 +1,5 @@
 ---
-title: "Ramos Prats Lab"
+title: "Ramos Prats Lab 2"
 format:
   html:
     include-in-header:
