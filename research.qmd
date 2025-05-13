@@ -1,0 +1,90 @@
+---
+title: "Research"
+---
+
+## Research Overview
+
+[Write a paragraph or two summarizing your research program, its significance, and potential impact on the field or society.]
+
+## Current Projects
+
+### metabotropic glutamate receptor 5 in health and disease
+
+![](images/ramosgrafik.jpg)
+
+**Timeline**: [Start year] - Present  
+**Funding**: [Funding source(s)]  
+**Collaborators**: [List of collaborators or partnering institutions]
+
+[3-4 sentences describing this project, its objectives, methods, and expected outcomes]
+
+**Key publications**:
+- [Citation 1]
+- [Citation 2]
+
+---
+
+### [Project Title 2]
+
+![](images/project2.jpg)
+
+**Timeline**: [Start year] - Present  
+**Funding**: [Funding source(s)]  
+**Collaborators**: [List of collaborators or partnering institutions]
+
+[3-4 sentences describing this project, its objectives, methods, and expected outcomes]
+
+**Key publications**:
+- [Citation 1]
+- [Citation 2]
+
+## Research Methods
+
+Our laboratory specializes in the following methods and techniques:
+
+- **[Method/Technique 1]**: [Brief description]
+- **[Method/Technique 2]**: [Brief description]
+- **[Method/Technique 3]**: [Brief description]
+- **[Method/Technique 4]**: [Brief description]
+
+## Laboratory Facilities
+
+Our research is conducted in [location of your lab], which is equipped with:
+
+- [Major equipment 1]
+- [Major equipment 2]
+- [Major equipment 3]
+- [Specialized facility/resource]
+
+## Funding Sources
+
+Our research is generously supported by:
+
+:::: {.columns}
+
+::: {.column width="50%"}
+![](images/funder1-logo.png)
+:::
+
+::: {.column width="50%"}
+![](images/funder2-logo.png)
+:::
+
+::::
+
+- **[Funding Agency 1]**: [Grant title], [Years], [Grant ID]
+- **[Funding Agency 2]**: [Grant title], [Years], [Grant ID]
+- **[Funding Agency 3]**: [Grant title], [Years], [Grant ID]
+
+## Opportunities
+
+We are always looking for motivated researchers to join our team!
+
+:::{.callout-note}
+### Open Positions
+- **PhD Student**: [Brief description of project and requirements]
+- **Postdoctoral Researcher**: [Brief description of project and requirements]
+- **Undergraduate Research Assistant**: [Brief description of role]
+
+Interested candidates should send their CV and a brief statement of research interests to [your.email@institution.edu](mailto:your.email@institution.edu).
+:::

@@ -1,0 +1,50 @@
+---
+title: "Ramos Prats Lab"
+subtitle: "Postdoc at FMI"
+image: images/Arnau.jpg
+about:
+  template: trestles
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:arnau.ramosprats@fmi.ch
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/yourusername
+    - icon: github
+      text: Github
+      href: https://github.com/yourusername
+    - icon: google
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=YOURID
+    - icon: file-earmark-text
+      text: CV
+      href: files/CV.pdf
+---
+
+## Welcome
+
+I am a [Your Field] scientist at [Your Institution], where I [brief description of your position and research focus]. My research interests include [Research Area 1], [Research Area 2], and [Research Area 3].
+
+## Research Focus
+
+My laboratory focuses on [brief description of your research program]. We use [techniques/approaches] to investigate [research questions]. Our work has applications in [field/industry/societal benefit].
+
+## Latest News
+
+::: {.callout-note appearance="simple"}
+**May 2025**: Our paper on [Paper Title] has been accepted to [Journal Name].
+
+**April 2025**: Received [Grant/Award] for our project on [Project Name].
+
+**March 2025**: New lab member [Name] joins our team to work on [Project].
+:::
+
+## Featured Publication
+
+**[Title of your most important paper]**  
+[Authors including yourself]  
+*[Journal Name]*, [Year]  
+[DOI/Link]
+
+> Brief description or abstract of the paper highlighting its significance and impact.

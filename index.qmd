@@ -1,0 +1,86 @@
+---
+title: "Ramos Prats Lab"
+format:
+  html:
+    include-in-header:
+      text: |
+        <style>
+          .video-container {
+            border-radius: 8px;
+            overflow: hidden;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+            max-width: 600px;
+            margin: 0 auto;
+          }
+          
+          video {
+            display: block;
+            width: 100%;
+          }
+          
+          .title {
+            margin-bottom: 1.5rem;
+            text-align: center;
+          }
+          
+          .lead {
+            font-size: 1.2rem;
+            margin-top: 1.5rem;
+            text-align: center;
+          }
+          
+          .button-container {
+            text-align: center;
+            margin-top: 2rem;
+          }
+          
+          .custom-btn {
+            margin: 0 0.5rem;
+            padding: 0.5rem 1rem;
+            text-decoration: none;
+            border-radius: 4px;
+            display: inline-block;
+            font-weight: bold;
+            transition: background-color 0.3s;
+          }
+          
+          .btn-primary {
+            background-color: #007bff;
+            color: white;
+          }
+          
+          .btn-secondary {
+            background-color: #6c757d;
+            color: white;
+          }
+          
+          .btn-info {
+            background-color: #17a2b8;
+            color: white;
+          }
+          
+          .btn-primary:hover, .btn-secondary:hover, .btn-info:hover {
+            opacity: 0.9;
+            color: white;
+          }
+        </style>
+---
+
+```{=html}
+<div class="video-container">
+  <video controls autoplay loop muted>
+    <source src="videos/Example_Video.mp4" type="video/mp4">
+    Your browser does not support MP4 videos.
+  </video>
+</div>
+```
+
+::: {.lead}
+Welcome to the Ramos Prats Lab. Our research focuses on understanding the neural mechanisms underlying anxiety, stress, and adaptive behavior.
+:::
+
+::: {.button-container}
+[Research]{.custom-btn .btn-primary}
+[Publications](publications.html){.custom-btn .btn-secondary}
+[Team](people.html){.custom-btn .btn-info}
+:::

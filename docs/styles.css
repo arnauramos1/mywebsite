@@ -1,0 +1,165 @@
+/* Custom styles for scientific website */
+
+/* Add some custom fonts */
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&family=Merriweather:wght@300;400;700&display=swap');
+
+/* Base styles */
+body {
+  font-family: 'Lato', sans-serif;
+  font-weight: 400;
+  line-height: 1.7;
+  color: #333;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Merriweather', serif;
+  margin-top: 1.5rem;
+  margin-bottom: 1rem;
+  color: #1d3557;
+}
+
+h1 {
+  font-weight: 700;
+  border-bottom: 1px solid #dee2e6;
+  padding-bottom: 0.5rem;
+}
+
+h2 {
+  font-weight: 700;
+}
+
+h3 {
+  font-weight: 400;
+}
+
+/* Link styling */
+a {
+  color: #3498db;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #1e70bf;
+  text-decoration: underline;
+}
+
+/* Image styling */
+img {
+  border-radius: 5px;
+  max-width: 100%;
+  height: auto;
+}
+
+/* Publication list styling */
+.publications li {
+  margin-bottom: 1rem;
+}
+
+/* Profile image */
+.about-image {
+  border-radius: 50%;
+  border: 3px solid #f8f9fa;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+}
+
+/* Callout boxes */
+.callout {
+  border-left: 5px solid #3498db;
+  background-color: #f8f9fa;
+  padding: 1rem;
+  margin: 1.5rem 0;
+  border-radius: 0 5px 5px 0;
+}
+
+.callout-note {
+  border-left-color: #3498db;
+}
+
+.callout-tip {
+  border-left-color: #2ecc71;
+}
+
+.callout-important {
+  border-left-color: #e74c3c;
+}
+
+/* Footer styling */
+.footer {
+  font-size: 0.9rem;
+  border-top: 1px solid #dee2e6;
+  padding-top: 1.5rem;
+  margin-top: 3rem;
+}
+
+/* Responsive adjustments */
+@media (max-width: 767px) {
+  .column-page {
+    padding: 0;
+  }
+  
+  h1 {
+    font-size: 2rem;
+  }
+  
+  h2 {
+    font-size: 1.75rem;
+  }
+}
+
+/* Navigation bar customization */
+.navbar {
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+/* Cards for team members */
+.team-card {
+  border: 1px solid #dee2e6;
+  border-radius: 5px;
+  overflow: hidden;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  margin-bottom: 2rem;
+}
+
+.team-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 6px 12px rgba(0,0,0,0.1);
+}
+
+/* Improve table styling */
+table {
+  width: 100%;
+  margin-bottom: 1rem;
+  border-collapse: collapse;
+}
+
+thead {
+  background-color: #f8f9fa;
+}
+
+th, td {
+  padding: 0.75rem;
+  border: 1px solid #dee2e6;
+}
+
+/* Code block styling */
+code {
+  font-family: 'Monaco', 'Consolas', monospace;
+  background-color: #f8f9fa;
+  padding: 0.2rem 0.4rem;
+  border-radius: 3px;
+  font-size: 0.9em;
+  color: #e83e8c;
+}
+
+pre {
+  background-color: #f8f9fa;
+  border-radius: 5px;
+  padding: 1rem;
+  overflow-x: auto;
+}
+
+pre code {
+  background-color: transparent;
+  padding: 0;
+  color: inherit;
+}

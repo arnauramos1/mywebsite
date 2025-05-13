@@ -1,0 +1,118 @@
+---
+title: "People"
+---
+
+## Principal Investigator
+
+:::: {.columns}
+
+::: {.column width="30%"}
+![](images/your-photo.jpg)
+:::
+
+::: {.column width="70%"}
+### Dr. [Your Name], [Credentials]
+**[Your Title]**  
+[Your Department]  
+[Your Institution]
+
+[Brief bio - 2-3 sentences about your background, research focus, and interests]
+
+**Contact**: [your.email@institution.edu](mailto:your.email@institution.edu)  
+**Office**: [Building and Room Number]  
+[Link to CV](files/CV.pdf)
+:::
+
+::::
+
+## Lab Members
+
+### Postdoctoral Researchers
+
+:::: {.columns}
+
+::: {.column width="30%"}
+![](images/postdoc1.jpg)
+:::
+
+::: {.column width="70%"}
+### Dr. [Name]
+**Research focus**: [Brief description]
+
+[Short bio including previous education, when they joined the lab, and their current projects]
+
+**Contact**: [email@institution.edu](mailto:email@institution.edu)
+:::
+
+::::
+
+### PhD Students
+
+:::: {.columns}
+
+::: {.column width="30%"}
+![](images/phdstudent1.jpg)
+:::
+
+::: {.column width="70%"}
+### [Name]
+**Thesis title**: [Title]
+
+[Short bio including previous education, when they joined the lab, and their current projects]
+
+**Contact**: [email@institution.edu](mailto:email@institution.edu)
+:::
+
+::::
+
+### Master's Students
+
+:::: {.columns}
+
+::: {.column width="30%"}
+![](images/masters1.jpg)
+:::
+
+::: {.column width="70%"}
+### [Name]
+**Project title**: [Title]
+
+[Short bio]
+
+**Contact**: [email@institution.edu](mailto:email@institution.edu)
+:::
+
+::::
+
+### Undergraduate Students
+
+:::: {.columns}
+
+::: {.column width="30%"}
+![](images/undergrad1.jpg)
+:::
+
+::: {.column width="70%"}
+### [Name]
+**Project title**: [Title]
+
+[Short description of their project and role in the lab]
+
+**Contact**: [email@institution.edu](mailto:email@institution.edu)
+:::
+
+::::
+
+## Alumni
+
+### Former Postdoctoral Researchers
+- **Dr. [Name]** ([Years in lab]) - Now [Current Position] at [Current Institution]
+- **Dr. [Name]** ([Years in lab]) - Now [Current Position] at [Current Institution]
+
+### Former PhD Students
+- **Dr. [Name]** ([Year graduated]) - Now [Current Position] at [Current Institution]
+- **Dr. [Name]** ([Year graduated]) - Now [Current Position] at [Current Institution]
+
+### Former Master's Students
+- **[Name]** ([Year graduated]) - Now [Current Position] at [Current Institution]
+- **[Name]** ([Year graduated]) - Now [Current Position] at [Current Institution]

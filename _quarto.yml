@@ -1,0 +1,44 @@
+project:
+  type: website
+  output-dir: docs
+  
+website:
+  title: "Ramos Prats Lab"
+  navbar:
+    logo: images/FMI-RGB-1.png
+    background: primary
+    search: true
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "About"
+        href: about.qmd
+      - text: "Research"
+        href: research.qmd
+      - text: "Publications"
+        href: Publications.qmd
+      - text: "People"
+        href: people.qmd
+      - text: "CV"
+        href: cv.qmd
+      - text: "Contact"
+        href: contact.qmd
+  page-footer:
+    left: "© 2025 [Your Name]. All rights reserved."
+    right: 
+      - icon: github
+        href: https://github.com/yourusername
+      - icon: twitter
+        href: https://twitter.com/yourusername
+      - icon: envelope
+        href: mailto:your.email@institution.edu
+
+format:
+  html:
+    theme: minty
+    css: styles.css
+    toc: true
+    page-layout: full
+    fontsize: 1.1em
+    linestretch: 1.7
+    

@@ -1,0 +1,157 @@
+---
+title: "Curriculum Vitae"
+---
+
+## Dr. [Arnau Ramos], [PhD]
+
+[Your Department]  
+[Your Institution]  
+[City, State/Province, Country]  
+Email: [your.email@institution.edu](mailto:your.email@institution.edu)  
+Phone: [Your office phone number]
+
+[Download Full CV (PDF)](files/Annex2_CV.pdf)
+
+---
+
+## Education
+
+**Ph.D., [Field of Study]**  
+[University Name], [Location]  
+[Year]  
+Dissertation: "[Title of Dissertation]"  
+Advisor: [Advisor's Name]
+
+**M.S./M.A., [Field of Study]**  
+[University Name], [Location]  
+[Year]
+
+**B.S./B.A., [Field of Study]**  
+[University Name], [Location]  
+[Year]
+
+---
+
+## Professional Experience
+
+**[Current Position]**  
+[Institution/Department], [Location]  
+[Start Year] - Present
+
+**[Previous Position]**  
+[Institution/Department], [Location]  
+[Start Year] - [End Year]
+
+**[Previous Position]**  
+[Institution/Department], [Location]  
+[Start Year] - [End Year]
+
+---
+
+## Research Interests
+
+- [Research Area 1]
+- [Research Area 2]
+- [Research Area 3]
+- [Research Area 4]
+
+---
+
+## Selected Publications
+
+### Journal Articles
+
+1. **[Authors including yourself]** ([Year]). [Title of paper]. *[Journal Name]*, [Volume](Issue), [Page numbers]. [DOI or URL]
+
+2. **[Authors including yourself]** ([Year]). [Title of paper]. *[Journal Name]*, [Volume](Issue), [Page numbers]. [DOI or URL]
+
+3. **[Authors including yourself]** ([Year]). [Title of paper]. *[Journal Name]*, [Volume](Issue), [Page numbers]. [DOI or URL]
+
+*For a complete list of publications, please see the [Publications](publications.qmd) page.*
+
+---
+
+## Grants and Funding
+
+**[Grant Title]**  
+[Funding Agency], [Grant ID]  
+[Amount], [Year]-[Year]  
+Role: [PI/Co-PI/Investigator]
+
+**[Grant Title]**  
+[Funding Agency], [Grant ID]  
+[Amount], [Year]-[Year]  
+Role: [PI/Co-PI/Investigator]
+
+---
+
+## Awards and Honors
+
+- [Award Name], [Awarding Institution], [Year]
+- [Award Name], [Awarding Institution], [Year]
+- [Award Name], [Awarding Institution], [Year]
+
+---
+
+## Teaching Experience
+
+**[Course Title]**  
+[Institution], [Department]  
+[Semester(s) and Year(s)]
+
+**[Course Title]**  
+[Institution], [Department]  
+[Semester(s) and Year(s)]
+
+---
+
+## Students Supervised
+
+### Current
+- [Student Name], [Program], [Project Title], [Start Year]-Present
+- [Student Name], [Program], [Project Title], [Start Year]-Present
+
+### Completed
+- [Student Name], [Degree], [Graduation Year], Thesis: "[Thesis Title]"
+- [Student Name], [Degree], [Graduation Year], Thesis: "[Thesis Title]"
+
+---
+
+## Professional Service
+
+### Editorial Positions
+- [Position], [Journal Name], [Years]
+- [Position], [Journal Name], [Years]
+
+### Reviewer
+- [Journal Name]
+- [Journal Name]
+- [Journal Name]
+
+### Conference Organization
+- [Role], [Conference Name], [Location], [Year]
+- [Role], [Conference Name], [Location], [Year]
+
+---
+
+## Professional Memberships
+
+- [Professional Organization]
+- [Professional Organization]
+- [Professional Organization]
+
+---
+
+## Languages
+
+- [Language]: [Proficiency Level]
+- [Language]: [Proficiency Level]
+- [Language]: [Proficiency Level]
+
+---
+
+## Technical Skills
+
+- [Skill Category]: [List of specific skills]
+- [Skill Category]: [List of specific skills]
+- [Skill Category]: [List of specific skills]

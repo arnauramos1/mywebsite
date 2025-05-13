@@ -1,0 +1,56 @@
+---
+title: "Publications"
+---
+
+You can view my complete publication list on:
+
+- [ORCID](https://orcid.org/0000-0002-4479-803X)
+- [Google Scholar](https://scholar.google.com/citations?user=oKcjws0AAAAJ&hl=es)
+
+## Publications by Year
+
+### 2024
+Durán-Silva, N., Carrillo, J., Plaza, L., Ricardo, S., Massuci, F.A., Veiga, S., *Ramos-Prats, A.*. (2024). BATRACIO: BAsic, TRAnslational, Clinical, Research Phase Identification in BiOmedical Publications. *IEEE Access*, vol. 12, pp. 146476-146493, 2024, doi: 10.1109/ACCESS.2024.3463717. 
+
+**Ramos-Prats, A.**, Matulewicz, P., Edenhofer, M. L., Wang, K. Y., Yeh, C. W., Fajardo-Serrano, A., Kress, M., Kummer, K., Lien, C. C., & Ferraguti, F. (2024). Loss of mGlu<sub>5</sub> receptors in somatostatin-expressing interneurons alters negative emotional states.  Mol Psychiatry 29, 2774–2786 (2024). [DOI] https://doi.org/10.1038/s41380-024-02541-5
+
+### 2023
+
+Sadeghi, M., **Ramos-Prats, A.**, Neto, P., Castaldi, F., Crowley, D., Matulewicz, P., Paradiso, E., Freysinger, W., Ferraguti, F., & Goebel, G. (2023). Localization and Registration of 2D Histological Mouse Brain Images in 3D Atlas Space. *Neuroinformatics*, 21(3), 615-630. [DOI](https://doi.org/10.1007/s12021-023-09632-8)
+
+Rahimi, S., Salami, P., Matulewicz, P., Schmuck, A., Bukovac, A., **Ramos-Prats, A.**, Tasan, R. O., & Drexel, M. (2023). The role of subicular VIP-expressing interneurons on seizure dynamics in the intrahippocampal kainic acid model of temporal lobe epilepsy. *Experimental Neurology*, 370, 114580. [DOI](https://doi.org/10.1016/j.expneurol.2023.114580)
+
+### 2022
+
+**Ramos-Prats, A.**, Paradiso, E., Castaldi, F., Sadeghi, M., Mir, M. Y., Hörtnagl, H., Göbel, G., & Ferraguti, F. (2022). VIP-expressing interneurons in the anterior insular cortex contribute to sensory processing to regulate adaptive behavior. *Cell Reports*, 39(9), 110893. [DOI](https://doi.org/10.1016/j.celrep.2022.110893)
+
+Matulewicz, P., **Ramos-Prats, A.**, Gómez-Santacana, X., Llebaria, A., & Ferraguti, F. (2022). Control of Theta Oscillatory Activity Underlying Fear Expression by mGlu<sub>5</sub> Receptors. *Cells*, 11(22). [DOI](https://doi.org/10.3390/cells11223555)
+
+### 2021
+
+Zangrandi, L., Schmuckermair, C., Ghareh, H., Castaldi, F., Heilbronn, R., Zernig, G., Ferraguti, F., & **Ramos-Prats, A.** (2021). Loss of mGluR5 in D1 Receptor-Expressing Neurons Improves Stress Coping. *International Journal of Molecular Sciences*, 22(15). [DOI](https://doi.org/10.3390/ijms22157826)
+
+### 2020
+
+Alonso, L., Peeva, P., **Ramos-Prats, A.**, Alenina, N., Winter, Y., & Rivalan, M. (2020). Inter-individual and inter-strain differences in cognitive and social abilities of Dark Agouti and Wistar Han rats. *Behavioural Brain Research*, 377, 112188. [DOI](https://doi.org/10.1016/j.bbr.2019.112188)
+
+### 2019
+
+**Ramos-Prats, A.**, Kölldorfer, J., Paolo, E., Zeidler, M., Schmid, G., & Ferraguti, F. (2019). An Appraisal of the Influence of the Metabotropic Glutamate 5 (mGlu5) Receptor on Sociability and Anxiety. *Frontiers in Molecular Neuroscience*, 12, 30. [DOI](https://doi.org/10.3389/fnmol.2019.00030)
+
+Sanchís-Ollé, M., Fuentes, S., Úbeda-Contreras, J., Lalanza, J. F., **Ramos-Prats, A.**, Armario, A., & Nadal, R. (2019). Controllability affects endocrine response of adolescent male rats to stress as well as impulsivity and behavioral flexibility during adulthood. *Scientific Reports*, 9(1), 3180. [DOI](https://doi.org/10.1038/s41598-019-40061-3)
+
+
+
+
+## Publication Metrics
+
+- **Publications**: 9 peer-reviewed articles
+- **First author**: 3 publications
+- **Fields**: Neuroscience, Molecular Biology, Behavioral Neuroscience
+- **Research focus**: Neural mechanisms of social behavior, anxiety, and stress processing; role of metabotropic glutamate receptors; interneuron function in brain circuits
+
+
+- **Total Citations**: ~120 (as of May 2025)
+- **h-index**: 6
+- **i10-index**: 4

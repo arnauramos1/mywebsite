@@ -1,0 +1,2318 @@
+body #muiMain #muiCont h2, body #muiMain #muiCont .box.boxed p, body #muiMain .box.custom-box .inner-box .headline, body .headline-right h1, body #muiRight .box.custom-box .inner-box .headline, body #muiRightMobile .box.custom-box .inner-box .headline, body #muiSite main .contentheader .textbox h1, body #muiSite main .competence-links h3, body #muiSite main .calendar h2 {
+  font-family: corporate-a, serif;
+  font-weight: 300;
+  font-style: normal; }
+
+body #muiSite main .news .headline-mobile h2, body #muiSite main .news .headline h2, body #muiSite main .news .headline span, body #muiSite main .news-teaser .carousel-wrap .item span.headline, body #muiSite main .competence-links .link-box .background-image a span {
+  font-family: corporate-a, serif;
+  font-weight: 400;
+  font-style: normal; }
+
+body #muiSite main .banner .text-half .content p, body #muiSite main .calendar .calendar-table .date span {
+  font-family: corporate-s, sans-serif;
+  font-weight: 300;
+  font-style: normal; }
+
+body #muiSite, body #muiSite .btn, body #muiSite main .news .newsblock1 .content, body #muiSite main .news .newsblock2 .content {
+  font-family: corporate-s, sans-serif;
+  font-weight: 400;
+  font-style: normal; }
+
+body #muiSite ul.list-layout2 li a, body #muiSite #muiHeader .burgericon a span, body #muiMain .box.custom-box .inner-box .small-headline, body #muiRight .box.subnav ul li a, body #muiRight .box.custom-box .inner-box .small-headline, body #muiRightMobile .box.subnav ul li a, body #muiRightMobile .box.custom-box .inner-box .small-headline, body #muiSite main .news .headline-mobile a, body #muiSite main .news .headline a, body #muiSite main .news .newsblock1 .content span, body #muiSite main .news .newsblock2 .content span, body #muiSite main .news .newsblock1 .content p a, body #muiSite main .news .newsblock2 .content p a, body #muiSite main .news-teaser .carousel-wrap .item span.date, body #muiSite main .banner .text-half .content p span, body #muiSite main .banner .image-half .background-image span, body #muiSite main .calendar .calendar-table .description .descriptionblock p a {
+  font-family: corporate-s, sans-serif;
+  font-weight: 500;
+  font-style: normal; }
+
+body strong, body #muiMain #muiCont h3, body #muiMain #muiCont .box.boxed span, body #muiSite main .news .newsblock1 .content h3, body #muiSite main .news .newsblock2 .content h3, body #muiSite main .news-teaser .carousel-wrap .item.with-image .headline, body #muiSite main .banner .text-half .content p strong {
+  font-family: corporate-s, sans-serif;
+  font-weight: 600;
+  font-style: normal; }
+
+body .headline-right h1 {
+  font-size: 28px; }
+  @media (min-width: 500px) {
+    body .headline-right h1 {
+      font-size: 34px; } }
+  @media (min-width: 992px) {
+    body .headline-right h1 {
+      font-size: 40px; } }
+  @media (min-width: 1200px) {
+    body .headline-right h1 {
+      font-size: 32px; } }
+
+body #muiMain #muiCont h2, body #muiMain .box.custom-box .inner-box .headline, body #muiRight .box.custom-box .inner-box .headline, body #muiRightMobile .box.custom-box .inner-box .headline, body #muiSite main .contentheader .textbox h1, body #muiSite main .news .headline-mobile h2, body #muiSite main .news .headline h2, body #muiSite main .banner .text-half .content p, body #muiSite main .calendar h2 {
+  font-size: 32px; }
+  @media (min-width: 500px) {
+    body #muiMain #muiCont h2, body #muiMain .box.custom-box .inner-box .headline, body #muiRight .box.custom-box .inner-box .headline, body #muiRightMobile .box.custom-box .inner-box .headline, body #muiSite main .contentheader .textbox h1, body #muiSite main .news .headline-mobile h2, body #muiSite main .news .headline h2, body #muiSite main .banner .text-half .content p, body #muiSite main .calendar h2 {
+      font-size: 38px; } }
+  @media (min-width: 992px) {
+    body #muiMain #muiCont h2, body #muiMain .box.custom-box .inner-box .headline, body #muiRight .box.custom-box .inner-box .headline, body #muiRightMobile .box.custom-box .inner-box .headline, body #muiSite main .contentheader .textbox h1, body #muiSite main .news .headline-mobile h2, body #muiSite main .news .headline h2, body #muiSite main .banner .text-half .content p, body #muiSite main .calendar h2 {
+      font-size: 44px; } }
+  @media (min-width: 1200px) {
+    body #muiMain #muiCont h2, body #muiMain .box.custom-box .inner-box .headline, body #muiRight .box.custom-box .inner-box .headline, body #muiRightMobile .box.custom-box .inner-box .headline, body #muiSite main .contentheader .textbox h1, body #muiSite main .news .headline-mobile h2, body #muiSite main .news .headline h2, body #muiSite main .banner .text-half .content p, body #muiSite main .calendar h2 {
+      font-size: 48px; } }
+
+body #muiSite main .news .headline span, body #muiSite main .news-teaser .carousel-wrap .item span.headline, body #muiSite main .competence-links h3, body #muiSite main .competence-links .link-box .background-image a span, body #muiSite main .banner .text-half .content p span, body #muiSite main .calendar .calendar-table .date {
+  font-size: 24px; }
+  @media (min-width: 500px) {
+    body #muiSite main .news .headline span, body #muiSite main .news-teaser .carousel-wrap .item span.headline, body #muiSite main .competence-links h3, body #muiSite main .competence-links .link-box .background-image a span, body #muiSite main .banner .text-half .content p span, body #muiSite main .calendar .calendar-table .date {
+      font-size: 26px; } }
+  @media (min-width: 992px) {
+    body #muiSite main .news .headline span, body #muiSite main .news-teaser .carousel-wrap .item span.headline, body #muiSite main .competence-links h3, body #muiSite main .competence-links .link-box .background-image a span, body #muiSite main .banner .text-half .content p span, body #muiSite main .calendar .calendar-table .date {
+      font-size: 30px; } }
+  @media (min-width: 1200px) {
+    body #muiSite main .news .headline span, body #muiSite main .news-teaser .carousel-wrap .item span.headline, body #muiSite main .competence-links h3, body #muiSite main .competence-links .link-box .background-image a span, body #muiSite main .banner .text-half .content p span, body #muiSite main .calendar .calendar-table .date {
+      font-size: 32px; } }
+
+body #muiSite h4.layout, body #muiSite .small-headline {
+  font-size: 20px; }
+  @media (min-width: 500px) {
+    body #muiSite h4.layout, body #muiSite .small-headline {
+      font-size: 22px; } }
+  @media (min-width: 992px) {
+    body #muiSite h4.layout, body #muiSite .small-headline {
+      font-size: 24px; } }
+  @media (min-width: 1200px) {
+    body #muiSite h4.layout, body #muiSite .small-headline {
+      font-size: 26px; } }
+
+body #muiSite #muiHeader #muiMainMenu ul.ul1 li.li1 p a, body #muiSite #muiHeader #muiMainMenu ul.ul1 li.li1 ul.ul2 li.li2 ul.ul3 li.li3.main-point a, body #muiSite #muiHeader #muiMainMenu.submenu-active ul.ul1 li.li1.subebene-2 .ul2 .li2 .ul3.active .li3.main-point a, body #muiSite #muiHeader #muiMainMenu_fixed ul.ul1 li.li1 p a, body #muiSite #muiHeader #muiMainMenu_fixed ul.ul1 li.li1 ul.ul2 li.li2 ul.ul3 li.li3.main-point a, body #muiSite #muiHeader #muiMainMenu_fixed.submenu-active ul.ul1 li.li1.subebene-2 .ul2 .li2 .ul3.active .li3.main-point a {
+  font-size: 26px; }
+  @media (min-width: 500px) {
+    body #muiSite #muiHeader #muiMainMenu ul.ul1 li.li1 p a, body #muiSite #muiHeader #muiMainMenu ul.ul1 li.li1 ul.ul2 li.li2 ul.ul3 li.li3.main-point a, body #muiSite #muiHeader #muiMainMenu.submenu-active ul.ul1 li.li1.subebene-2 .ul2 .li2 .ul3.active .li3.main-point a, body #muiSite #muiHeader #muiMainMenu_fixed ul.ul1 li.li1 p a, body #muiSite #muiHeader #muiMainMenu_fixed ul.ul1 li.li1 ul.ul2 li.li2 ul.ul3 li.li3.main-point a, body #muiSite #muiHeader #muiMainMenu_fixed.submenu-active ul.ul1 li.li1.subebene-2 .ul2 .li2 .ul3.active .li3.main-point a {
+      font-size: 28px; } }
+  @media (min-width: 992px) {
+    body #muiSite #muiHeader #muiMainMenu ul.ul1 li.li1 p a, body #muiSite #muiHeader #muiMainMenu ul.ul1 li.li1 ul.ul2 li.li2 ul.ul3 li.li3.main-point a, body #muiSite #muiHeader #muiMainMenu.submenu-active ul.ul1 li.li1.subebene-2 .ul2 .li2 .ul3.active .li3.main-point a, body #muiSite #muiHeader #muiMainMenu_fixed ul.ul1 li.li1 p a, body #muiSite #muiHeader #muiMainMenu_fixed ul.ul1 li.li1 ul.ul2 li.li2 ul.ul3 li.li3.main-point a, body #muiSite #muiHeader #muiMainMenu_fixed.submenu-active ul.ul1 li.li1.subebene-2 .ul2 .li2 .ul3.active .li3.main-point a {
+      font-size: 20px; } }
+  @media (min-width: 1200px) {
+    body #muiSite #muiHeader #muiMainMenu ul.ul1 li.li1 p a, body #muiSite #muiHeader #muiMainMenu ul.ul1 li.li1 ul.ul2 li.li2 ul.ul3 li.li3.main-point a, body #muiSite #muiHeader #muiMainMenu.submenu-active ul.ul1 li.li1.subebene-2 .ul2 .li2 .ul3.active .li3.main-point a, body #muiSite #muiHeader #muiMainMenu_fixed ul.ul1 li.li1 p a, body #muiSite #muiHeader #muiMainMenu_fixed ul.ul1 li.li1 ul.ul2 li.li2 ul.ul3 li.li3.main-point a, body #muiSite #muiHeader #muiMainMenu_fixed.submenu-active ul.ul1 li.li1.subebene-2 .ul2 .li2 .ul3.active .li3.main-point a {
+      font-size: 22px; } }
+
+body #muiSite #muiHeader #muiMainMenu.submenu-active ul.ul1 li.li1.subebene-1 .ul2 .li2 .ul3 .li3 a, body #muiSite #muiHeader #muiMainMenu.submenu-active ul.ul1 li.li1.subebene-2 .ul2 .li2 .ul3.active .li3 a, body #muiSite #muiHeader #muiMainMenu_fixed.submenu-active ul.ul1 li.li1.subebene-1 .ul2 .li2 .ul3 .li3 a, body #muiSite #muiHeader #muiMainMenu_fixed.submenu-active ul.ul1 li.li1.subebene-2 .ul2 .li2 .ul3.active .li3 a {
+  font-size: 22px; }
+  @media (min-width: 500px) {
+    body #muiSite #muiHeader #muiMainMenu.submenu-active ul.ul1 li.li1.subebene-1 .ul2 .li2 .ul3 .li3 a, body #muiSite #muiHeader #muiMainMenu.submenu-active ul.ul1 li.li1.subebene-2 .ul2 .li2 .ul3.active .li3 a, body #muiSite #muiHeader #muiMainMenu_fixed.submenu-active ul.ul1 li.li1.subebene-1 .ul2 .li2 .ul3 .li3 a, body #muiSite #muiHeader #muiMainMenu_fixed.submenu-active ul.ul1 li.li1.subebene-2 .ul2 .li2 .ul3.active .li3 a {
+      font-size: 24px; } }
+  @media (min-width: 992px) {
+    body #muiSite #muiHeader #muiMainMenu.submenu-active ul.ul1 li.li1.subebene-1 .ul2 .li2 .ul3 .li3 a, body #muiSite #muiHeader #muiMainMenu.submenu-active ul.ul1 li.li1.subebene-2 .ul2 .li2 .ul3.active .li3 a, body #muiSite #muiHeader #muiMainMenu_fixed.submenu-active ul.ul1 li.li1.subebene-1 .ul2 .li2 .ul3 .li3 a, body #muiSite #muiHeader #muiMainMenu_fixed.submenu-active ul.ul1 li.li1.subebene-2 .ul2 .li2 .ul3.active .li3 a {
+      font-size: 14px; } }
+  @media (min-width: 1200px) {
+    body #muiSite #muiHeader #muiMainMenu.submenu-active ul.ul1 li.li1.subebene-1 .ul2 .li2 .ul3 .li3 a, body #muiSite #muiHeader #muiMainMenu.submenu-active ul.ul1 li.li1.subebene-2 .ul2 .li2 .ul3.active .li3 a, body #muiSite #muiHeader #muiMainMenu_fixed.submenu-active ul.ul1 li.li1.subebene-1 .ul2 .li2 .ul3 .li3 a, body #muiSite #muiHeader #muiMainMenu_fixed.submenu-active ul.ul1 li.li1.subebene-2 .ul2 .li2 .ul3.active .li3 a {
+      font-size: 16px; } }
+
+body #muiSite #muiHeader #muiMainMenu ul.ul1 li.li1 ul.ul2 li.li2 ul.ul3 li.li3 a, body #muiSite #muiHeader #muiMainMenu_fixed ul.ul1 li.li1 ul.ul2 li.li2 ul.ul3 li.li3 a, body #muiMain #muiBreadCrumbs p a, body #muiMain #muiBreadCrumbs p, body #muiMain .box.custom-box .inner-box .small-headline, body #muiRight .box.custom-box .inner-box .small-headline, body #muiRightMobile .box.custom-box .inner-box .small-headline, body #muiSite main .news-teaser .carousel-wrap .item span.date {
+  font-size: 12px; }
+  @media (min-width: 500px) {
+    body #muiSite #muiHeader #muiMainMenu ul.ul1 li.li1 ul.ul2 li.li2 ul.ul3 li.li3 a, body #muiSite #muiHeader #muiMainMenu_fixed ul.ul1 li.li1 ul.ul2 li.li2 ul.ul3 li.li3 a, body #muiMain #muiBreadCrumbs p a, body #muiMain #muiBreadCrumbs p, body #muiMain .box.custom-box .inner-box .small-headline, body #muiRight .box.custom-box .inner-box .small-headline, body #muiRightMobile .box.custom-box .inner-box .small-headline, body #muiSite main .news-teaser .carousel-wrap .item span.date {
+      font-size: 12px; } }
+  @media (min-width: 992px) {
+    body #muiSite #muiHeader #muiMainMenu ul.ul1 li.li1 ul.ul2 li.li2 ul.ul3 li.li3 a, body #muiSite #muiHeader #muiMainMenu_fixed ul.ul1 li.li1 ul.ul2 li.li2 ul.ul3 li.li3 a, body #muiMain #muiBreadCrumbs p a, body #muiMain #muiBreadCrumbs p, body #muiMain .box.custom-box .inner-box .small-headline, body #muiRight .box.custom-box .inner-box .small-headline, body #muiRightMobile .box.custom-box .inner-box .small-headline, body #muiSite main .news-teaser .carousel-wrap .item span.date {
+      font-size: 13px; } }
+  @media (min-width: 1200px) {
+    body #muiSite #muiHeader #muiMainMenu ul.ul1 li.li1 ul.ul2 li.li2 ul.ul3 li.li3 a, body #muiSite #muiHeader #muiMainMenu_fixed ul.ul1 li.li1 ul.ul2 li.li2 ul.ul3 li.li3 a, body #muiMain #muiBreadCrumbs p a, body #muiMain #muiBreadCrumbs p, body #muiMain .box.custom-box .inner-box .small-headline, body #muiRight .box.custom-box .inner-box .small-headline, body #muiRightMobile .box.custom-box .inner-box .small-headline, body #muiSite main .news-teaser .carousel-wrap .item span.date {
+      font-size: 14px; } }
+
+body #muiSite, body #muiSite .btn.btn-primary, body #muiSite #muiHeader #muiMainMenu.submenu-active ul.ul1 li.back-btn a, body #muiSite #muiHeader #muiMainMenu_fixed #muiSearchFixed #muiSucheFixed .formItem input.x2, body #muiSite #muiHeader #muiMainMenu_fixed #muiSearchFixed #muiSucheFixed .formItem select, body #muiSite #muiHeader #muiMainMenu_fixed.submenu-active ul.ul1 li.back-btn a, body #muiMain #muiCont h3 {
+  font-size: 16px; }
+  @media (min-width: 500px) {
+    body #muiSite, body #muiSite .btn.btn-primary, body #muiSite #muiHeader #muiMainMenu.submenu-active ul.ul1 li.back-btn a, body #muiSite #muiHeader #muiMainMenu_fixed #muiSearchFixed #muiSucheFixed .formItem input.x2, body #muiSite #muiHeader #muiMainMenu_fixed #muiSearchFixed #muiSucheFixed .formItem select, body #muiSite #muiHeader #muiMainMenu_fixed.submenu-active ul.ul1 li.back-btn a, body #muiMain #muiCont h3 {
+      font-size: 18px; } }
+  @media (min-width: 992px) {
+    body #muiSite, body #muiSite .btn.btn-primary, body #muiSite #muiHeader #muiMainMenu.submenu-active ul.ul1 li.back-btn a, body #muiSite #muiHeader #muiMainMenu_fixed #muiSearchFixed #muiSucheFixed .formItem input.x2, body #muiSite #muiHeader #muiMainMenu_fixed #muiSearchFixed #muiSucheFixed .formItem select, body #muiSite #muiHeader #muiMainMenu_fixed.submenu-active ul.ul1 li.back-btn a, body #muiMain #muiCont h3 {
+      font-size: 18px; } }
+  @media (min-width: 1200px) {
+    body #muiSite, body #muiSite .btn.btn-primary, body #muiSite #muiHeader #muiMainMenu.submenu-active ul.ul1 li.back-btn a, body #muiSite #muiHeader #muiMainMenu_fixed #muiSearchFixed #muiSucheFixed .formItem input.x2, body #muiSite #muiHeader #muiMainMenu_fixed #muiSearchFixed #muiSucheFixed .formItem select, body #muiSite #muiHeader #muiMainMenu_fixed.submenu-active ul.ul1 li.back-btn a, body #muiMain #muiCont h3 {
+      font-size: 20px; } }
+
+body #muiSite #muiHeader #muiMainMenu ul.ul1 li.li1 ul.ul2 li.li2 ul.ul3 li.li3 a, body #muiSite #muiHeader #muiMainMenu_fixed ul.ul1 li.li1 ul.ul2 li.li2 ul.ul3 li.li3 a, body #muiSite main .news .headline-mobile a, body #muiSite main .news .headline a, body #muiSite main .news-teaser .carousel-wrap .item a {
+  position: relative;
+  padding-left: 14px;
+  color: #4e8ca5; }
+  body #muiSite #muiHeader #muiMainMenu ul.ul1 li.li1 ul.ul2 li.li2 ul.ul3 li.li3 a:before, body #muiSite #muiHeader #muiMainMenu_fixed ul.ul1 li.li1 ul.ul2 li.li2 ul.ul3 li.li3 a:before, body #muiSite main .news .headline-mobile a:before, body #muiSite main .news .headline a:before, body #muiSite main .news-teaser .carousel-wrap .item a:before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+    height: 13px;
+    width: 7px;
+    background-image: url("../img/pfeil-brand-primary.svg");
+    background-size: cover; }
+
+html {
+  overflow-x: hidden; }
+
+body #muiSite {
+  color: #494D4F;
+  width: auto;
+  margin: 0; }
+  body #muiSite .btn.btn-primary {
+    padding: 7px 27px 7px 30px;
+    background-color: #4e8ca5;
+    border-radius: 23px;
+    border: none;
+    line-height: 1.5; }
+  body #muiSite ul.list-layout1 {
+    list-style: none;
+    margin-left: 0;
+    margin-bottom: 30px; }
+    body #muiSite ul.list-layout1 li {
+      position: relative;
+      padding-left: 58px; }
+      body #muiSite ul.list-layout1 li:before {
+        content: '';
+        position: absolute;
+        width: 5px;
+        height: 5px;
+        background-color: #000;
+        left: 23px;
+        border-radius: 2.5px;
+        top: 50%;
+        -webkit-transform: translateY(-50%);
+        -ms-transform: translateY(-50%);
+        transform: translateY(-50%); }
+  body #muiSite ul.list-layout2 {
+    list-style: none;
+    margin-left: 0;
+    margin-bottom: 30px; }
+    body #muiSite ul.list-layout2 li {
+      position: relative;
+      padding: 0 0 5px 18px; }
+      body #muiSite ul.list-layout2 li:before {
+        content: "";
+        position: absolute;
+        left: 0;
+        top: 50%;
+        -webkit-transform: translateY(-50%);
+        -ms-transform: translateY(-50%);
+        transform: translateY(-50%);
+        height: 13px;
+        width: 7px;
+        background-image: url("../img/pfeil-brand-primary.svg");
+        background-size: cover; }
+      body #muiSite ul.list-layout2 li a {
+        line-height: 1.5; }
+
+@media (min-width: 576px) {
+  body .container {
+    max-width: 540px; } }
+
+@media (min-width: 768px) {
+  body .container {
+    max-width: 740px; } }
+
+@media (min-width: 992px) {
+  body .container {
+    max-width: 980px; } }
+
+@media (min-width: 1200px) {
+  body .container {
+    max-width: 1200px; } }
+
+html.menu-open {
+  overflow: hidden; }
+
+body {
+  overflow-y: hidden; }
+  body #muiSite #muiHeader {
+    margin-bottom: 20px; }
+    @media (min-width: 992px) {
+      body #muiSite #muiHeader {
+        padding-left: 210px;
+        margin-bottom: 0; } }
+    body #muiSite #muiHeader #muiMetaMenu {
+      display: none;
+      height: auto;
+      background: none;
+      width: auto;
+      margin-bottom: 39px; }
+      body #muiSite #muiHeader #muiMetaMenu .has-submenu {
+        -webkit-transition: -webkit-box-shadow 0.25s ease-in-out;
+        transition: -webkit-box-shadow 0.25s ease-in-out;
+        -o-transition: box-shadow 0.25s ease-in-out;
+        transition: box-shadow 0.25s ease-in-out;
+        transition: box-shadow 0.25s ease-in-out, -webkit-box-shadow 0.25s ease-in-out;
+        position: relative; }
+        body #muiSite #muiHeader #muiMetaMenu .has-submenu:hover a {
+          text-decoration: none; }
+        body #muiSite #muiHeader #muiMetaMenu .has-submenu ul {
+          -webkit-transition: opacity 0.25s ease-in-out;
+          -o-transition: opacity 0.25s ease-in-out;
+          transition: opacity 0.25s ease-in-out;
+          opacity: 0;
+          pointer-events: none;
+          position: absolute;
+          width: 100%;
+          background-color: #fff;
+          z-index: 11; }
+          body #muiSite #muiHeader #muiMetaMenu .has-submenu ul:after {
+            content: '';
+            position: absolute;
+            left: 0;
+            right: 0;
+            top: -4px;
+            height: 15px;
+            background-color: #fff; }
+          body #muiSite #muiHeader #muiMetaMenu .has-submenu ul li {
+            float: none; }
+            body #muiSite #muiHeader #muiMetaMenu .has-submenu ul li a:hover {
+              text-decoration: underline; }
+        body #muiSite #muiHeader #muiMetaMenu .has-submenu.active {
+          -webkit-box-shadow: 0 2px 10px rgba(0, 0, 0, 0.26);
+          box-shadow: 0 2px 10px rgba(0, 0, 0, 0.26); }
+          body #muiSite #muiHeader #muiMetaMenu .has-submenu.active ul {
+            -webkit-box-shadow: 0 2px 10px rgba(0, 0, 0, 0.26);
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.26);
+            opacity: 1;
+            pointer-events: auto; }
+      @media (min-width: 992px) {
+        body #muiSite #muiHeader #muiMetaMenu {
+          display: block; } }
+      body #muiSite #muiHeader #muiMetaMenu a {
+        color: #4e8ca5;
+        font-size: 16px;
+        line-height: 1; }
+      body #muiSite #muiHeader #muiMetaMenu span.language {
+        font-size: 16px;
+        line-height: 1; }
+        body #muiSite #muiHeader #muiMetaMenu span.language a {
+          /*border-right: 1px solid #494D4F;*/
+          padding: 0px 0px 0px 0px; }
+        body #muiSite #muiHeader #muiMetaMenu span.language span {
+          padding: 0px 0px 0px 0px;
+          /*color: #494D4F;*/ }
+      body #muiSite #muiHeader #muiMetaMenu .arrow-down {
+        width: 10px;
+        height: 6px; }
+    body #muiSite #muiHeader #muiMainMenu {
+      opacity: 0;
+      pointer-events: none; }
+      body #muiSite #muiHeader #muiMainMenu .mobile-inner {
+        margin-left: auto;
+        margin-right: auto;
+        padding: 0 15px; }
+        @media (min-width: 576px) {
+          body #muiSite #muiHeader #muiMainMenu .mobile-inner {
+            max-width: 540px; } }
+        @media (min-width: 768px) {
+          body #muiSite #muiHeader #muiMainMenu .mobile-inner {
+            max-width: 740px; } }
+        @media (min-width: 992px) {
+          body #muiSite #muiHeader #muiMainMenu .mobile-inner {
+            max-width: none; } }
+      body #muiSite #muiHeader #muiMainMenu.active {
+        pointer-events: auto;
+        opacity: 1;
+        -webkit-transition: opacity 0.25s ease-in;
+        -o-transition: opacity 0.25s ease-in;
+        transition: opacity 0.25s ease-in; }
+      @media (min-width: 991px) {
+        body #muiSite #muiHeader #muiMainMenu {
+          opacity: 1;
+          pointer-events: auto;
+          max-width: none; } }
+      @media (max-width: 991px) {
+        body #muiSite #muiHeader #muiMainMenu {
+          position: fixed;
+          left: 0;
+          top: 0;
+          height: 100vh;
+          width: 100vw;
+          background-color: #fff;
+          z-index: 999;
+          margin: 0;
+          overflow-y: scroll; } }
+      body #muiSite #muiHeader #muiMainMenu .mobile-menu-header {
+        position: relative;
+        display: block;
+        margin-top: 20px; }
+        @media (min-width: 992px) {
+          body #muiSite #muiHeader #muiMainMenu .mobile-menu-header {
+            display: none; } }
+        body #muiSite #muiHeader #muiMainMenu .mobile-menu-header .close img {
+          height: 40px;
+          width: 40px;
+          position: absolute;
+          right: 4px;
+          top: 40%;
+          -webkit-transform: translateY(-50%);
+          -ms-transform: translateY(-50%);
+          transform: translateY(-50%); }
+          @media (min-width: 500px) {
+            body #muiSite #muiHeader #muiMainMenu .mobile-menu-header .close img {
+              width: 50px;
+              height: 50px;
+              right: 5px;
+              top: 43%; } }
+      body #muiSite #muiHeader #muiMainMenu .muiMetaMenu-mobile {
+        position: relative; }
+        body #muiSite #muiHeader #muiMainMenu .muiMetaMenu-mobile ul {
+          margin: 0;
+          padding: 10px 37px 0 34px; }
+          body #muiSite #muiHeader #muiMainMenu .muiMetaMenu-mobile ul li {
+            padding-bottom: 15px;
+            width: 100%;
+            display: block;
+            line-height: 1;
+            padding-right: 60px; }
+            body #muiSite #muiHeader #muiMainMenu .muiMetaMenu-mobile ul li a {
+              color: #4e8ca5; }
+            body #muiSite #muiHeader #muiMainMenu .muiMetaMenu-mobile ul li.has-submenu ul {
+              padding: 0;
+              opacity: 0;
+              pointer-events: none;
+              -webkit-transition: opacity 0.25s ease-in-out;
+              -o-transition: opacity 0.25s ease-in-out;
+              transition: opacity 0.25s ease-in-out; }
+              body #muiSite #muiHeader #muiMainMenu .muiMetaMenu-mobile ul li.has-submenu ul li {
+                height: 0;
+                padding: 0;
+                -webkit-transition: height 0.25s ease-in-out, padding 0.25s ease-in-out;
+                -o-transition: height 0.25s ease-in-out, padding 0.25s ease-in-out;
+                transition: height 0.25s ease-in-out, padding 0.25s ease-in-out; }
+            body #muiSite #muiHeader #muiMainMenu .muiMetaMenu-mobile ul li.has-submenu.active ul {
+              opacity: 1;
+              pointer-events: auto; }
+              body #muiSite #muiHeader #muiMainMenu .muiMetaMenu-mobile ul li.has-submenu.active ul li {
+                height: 37px;
+                padding-top: 5px;
+                padding-bottom: 10px; }
+                body #muiSite #muiHeader #muiMainMenu .muiMetaMenu-mobile ul li.has-submenu.active ul li:first-of-type {
+                  height: 47px;
+                  padding-top: 15px; }
+            body #muiSite #muiHeader #muiMainMenu .muiMetaMenu-mobile ul li.language {
+              position: absolute;
+              right: 29px;
+              bottom: 0;
+              display: inline-block;
+              width: auto;
+              padding-right: 0; }
+              body #muiSite #muiHeader #muiMainMenu .muiMetaMenu-mobile ul li.language .language a {
+                display: inline-block;
+                border-right: 1px solid #494D4F;
+                padding: 0 8px; }
+              body #muiSite #muiHeader #muiMainMenu .muiMetaMenu-mobile ul li.language .language span {
+                padding: 0 8px; }
+          body #muiSite #muiHeader #muiMainMenu .muiMetaMenu-mobile ul .arrow-down {
+            width: 10px;
+            height: 6px; }
+        @media (min-width: 992px) {
+          body #muiSite #muiHeader #muiMainMenu .muiMetaMenu-mobile {
+            display: none; } }
+      body #muiSite #muiHeader #muiMainMenu .muiSearch-mobile {
+        position: relative;
+        padding: 0 37px 0 34px; }
+        @media (min-width: 992px) {
+          body #muiSite #muiHeader #muiMainMenu .muiSearch-mobile {
+            display: none; } }
+        body #muiSite #muiHeader #muiMainMenu .muiSearch-mobile .x2 {
+          width: calc(100% - 180px);
+          background: none;
+          border: none;
+          border-bottom: 1px solid #d8d8d8;
+          outline: none;
+          margin-right: 0;
+          font-size: 16px;
+          line-height: 1.4;
+          padding: 0; }
+          body #muiSite #muiHeader #muiMainMenu .muiSearch-mobile .x2::-webkit-input-placeholder {
+            color: #494D4F;
+            opacity: 0.3; }
+          body #muiSite #muiHeader #muiMainMenu .muiSearch-mobile .x2:-ms-input-placeholder {
+            color: #494D4F;
+            opacity: 0.3; }
+          body #muiSite #muiHeader #muiMainMenu .muiSearch-mobile .x2::-ms-input-placeholder {
+            color: #494D4F;
+            opacity: 0.3; }
+          body #muiSite #muiHeader #muiMainMenu .muiSearch-mobile .x2::placeholder {
+            color: #494D4F;
+            opacity: 0.3; }
+        body #muiSite #muiHeader #muiMainMenu .muiSearch-mobile select.x2 {
+          width: 130px;
+          border-radius: 0;
+          font-size: 16px;
+          line-height: 1.4;
+          border: none;
+          border-bottom: 1px solid #d8d8d8;
+          -webkit-appearance: none;
+          -moz-appearance: none;
+          appearance: none;
+          background: none; }
+        body #muiSite #muiHeader #muiMainMenu .muiSearch-mobile img.arrow-down {
+          position: absolute;
+          right: 90px;
+          top: 16px;
+          height: 7px;
+          width: 13px; }
+        body #muiSite #muiHeader #muiMainMenu .muiSearch-mobile p.button {
+          border: none;
+          height: 15px;
+          width: 15px;
+          position: absolute;
+          right: 0;
+          top: 5px;
+          margin: 0;
+          background: none; }
+          body #muiSite #muiHeader #muiMainMenu .muiSearch-mobile p.button a {
+            width: auto;
+            padding: 0; }
+            body #muiSite #muiHeader #muiMainMenu .muiSearch-mobile p.button a img {
+              width: 15px;
+              height: 15px;
+              position: absolute;
+              right: 37px; }
+              body #muiSite #muiHeader #muiMainMenu .muiSearch-mobile p.button a img .strich1 {
+                fill: #4E8CA5; }
+              body #muiSite #muiHeader #muiMainMenu .muiSearch-mobile p.button a img .strich2 {
+                fill: #FFFFFF;
+                fill-opacity: 0;
+                stroke: #4E8CA5;
+                stroke-width: 0.2;
+                stroke-miterlimit: 50; }
+      body #muiSite #muiHeader #muiMainMenu p {
+        font-size: 1rem;
+        line-height: 1; }
+      body #muiSite #muiHeader #muiMainMenu ul.ul1 {
+        margin-bottom: 14px; }
+        @media (max-width: 991px) {
+          body #muiSite #muiHeader #muiMainMenu ul.ul1 {
+            -webkit-box-pack: normal !important;
+            -ms-flex-pack: normal !important;
+            justify-content: normal !important;
+            display: inline-block !important;
+            width: 100%;
+            padding: 20px 37px 0 34px;
+            margin-bottom: 0; } }
+        body #muiSite #muiHeader #muiMainMenu ul.ul1 li span {
+          display: none; }
+        body #muiSite #muiHeader #muiMainMenu ul.ul1 li.has-submenu > span, body #muiSite #muiHeader #muiMainMenu ul.ul1 li.has-submenu p > span, body #muiSite #muiHeader #muiMainMenu ul.ul1 li.has-submenu a > span, body #muiSite #muiHeader #muiMainMenu ul.ul1 li.back-btn > span, body #muiSite #muiHeader #muiMainMenu ul.ul1 li.back-btn p > span, body #muiSite #muiHeader #muiMainMenu ul.ul1 li.back-btn a > span {
+          display: inline; }
+          body #muiSite #muiHeader #muiMainMenu ul.ul1 li.has-submenu > span svg, body #muiSite #muiHeader #muiMainMenu ul.ul1 li.has-submenu > span img, body #muiSite #muiHeader #muiMainMenu ul.ul1 li.has-submenu p > span svg, body #muiSite #muiHeader #muiMainMenu ul.ul1 li.has-submenu p > span img, body #muiSite #muiHeader #muiMainMenu ul.ul1 li.has-submenu a > span svg, body #muiSite #muiHeader #muiMainMenu ul.ul1 li.has-submenu a > span img, body #muiSite #muiHeader #muiMainMenu ul.ul1 li.back-btn > span svg, body #muiSite #muiHeader #muiMainMenu ul.ul1 li.back-btn > span img, body #muiSite #muiHeader #muiMainMenu ul.ul1 li.back-btn p > span svg, body #muiSite #muiHeader #muiMainMenu ul.ul1 li.back-btn p > span img, body #muiSite #muiHeader #muiMainMenu ul.ul1 li.back-btn a > span svg, body #muiSite #muiHeader #muiMainMenu ul.ul1 li.back-btn a > span img {
+            width: 27px;
+            height: 33px;
+            padding: 10px;
+            position: absolute;
+            right: 0;
+            top: 50%;
+            -webkit-transform: translateY(-50%);
+            -ms-transform: translateY(-50%);
+            transform: translateY(-50%);
+            cursor: pointer; }
+          @media (min-width: 992px) {
+            body #muiSite #muiHeader #muiMainMenu ul.ul1 li.has-submenu > span, body #muiSite #muiHeader #muiMainMenu ul.ul1 li.has-submenu p > span, body #muiSite #muiHeader #muiMainMenu ul.ul1 li.has-submenu a > span, body #muiSite #muiHeader #muiMainMenu ul.ul1 li.back-btn > span, body #muiSite #muiHeader #muiMainMenu ul.ul1 li.back-btn p > span, body #muiSite #muiHeader #muiMainMenu ul.ul1 li.back-btn a > span {
+              display: none; } }
+        body #muiSite #muiHeader #muiMainMenu ul.ul1 li.has-submenu.back-btn, body #muiSite #muiHeader #muiMainMenu ul.ul1 li.back-btn.back-btn {
+          display: none; }
+          body #muiSite #muiHeader #muiMainMenu ul.ul1 li.has-submenu.back-btn span, body #muiSite #muiHeader #muiMainMenu ul.ul1 li.back-btn.back-btn span {
+            padding-right: 12px; }
+            body #muiSite #muiHeader #muiMainMenu ul.ul1 li.has-submenu.back-btn span svg, body #muiSite #muiHeader #muiMainMenu ul.ul1 li.has-submenu.back-btn span img, body #muiSite #muiHeader #muiMainMenu ul.ul1 li.back-btn.back-btn span svg, body #muiSite #muiHeader #muiMainMenu ul.ul1 li.back-btn.back-btn span img {
+              -webkit-transform: translateY(-50%) rotateY(180deg);
+              transform: translateY(-50%) rotateY(180deg); }
+        body #muiSite #muiHeader #muiMainMenu ul.ul1 li.li1 {
+          padding: 29px 0 16px 0;
+          -webkit-box-flex: 1;
+          -ms-flex: auto;
+          flex: auto;
+          -webkit-transition: -webkit-box-shadow 0.25s ease-in-out;
+          transition: -webkit-box-shadow 0.25s ease-in-out;
+          -o-transition: box-shadow 0.25s ease-in-out;
+          transition: box-shadow 0.25s ease-in-out;
+          transition: box-shadow 0.25s ease-in-out, -webkit-box-shadow 0.25s ease-in-out; }
+          @media (max-width: 991px) {
+            body #muiSite #muiHeader #muiMainMenu ul.ul1 li.li1 {
+              -webkit-box-flex: 0;
+              -ms-flex: none;
+              flex: none;
+              display: block;
+              width: 100%;
+              padding: 20px 0 11px 0;
+              border-top: 1px solid #d8d8d8; }
+              body #muiSite #muiHeader #muiMainMenu ul.ul1 li.li1:last-of-type {
+                border-bottom: 1px solid #d8d8d8; } }
+          body #muiSite #muiHeader #muiMainMenu ul.ul1 li.li1 p {
+            margin: 0;
+            position: relative; }
+            body #muiSite #muiHeader #muiMainMenu ul.ul1 li.li1 p a {
+              -webkit-transition: border-color 0.25s ease-in;
+              -o-transition: border-color 0.25s ease-in;
+              transition: border-color 0.25s ease-in;
+              color: #4e8ca5;
+              text-align: center;
+              border-right: 2px solid #d8d8d8; }
+              @media (max-width: 991px) {
+                body #muiSite #muiHeader #muiMainMenu ul.ul1 li.li1 p a {
+                  margin-right: 30px;
+                  text-align: left;
+                  border: none;
+                  line-height: 1;
+                  position: relative; } }
+          body #muiSite #muiHeader #muiMainMenu ul.ul1 li.li1:last-of-type a {
+            border-right: none; }
+          body #muiSite #muiHeader #muiMainMenu ul.ul1 li.li1:hover {
+            -webkit-box-shadow: 0 2px 10px rgba(0, 0, 0, 0.26);
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.26); }
+            body #muiSite #muiHeader #muiMainMenu ul.ul1 li.li1:hover a {
+              border-color: transparent; }
+            body #muiSite #muiHeader #muiMainMenu ul.ul1 li.li1:hover p {
+              position: relative; }
+              body #muiSite #muiHeader #muiMainMenu ul.ul1 li.li1:hover p:after {
+                content: '';
+                width: 100%;
+                position: absolute;
+                left: 0;
+                top: 26px;
+                height: 18px;
+                background-color: #fff;
+                z-index: 110; }
+            body #muiSite #muiHeader #muiMainMenu ul.ul1 li.li1:hover ul.ul2 {
+              display: -webkit-box;
+              display: -ms-flexbox;
+              display: flex; }
+            body #muiSite #muiHeader #muiMainMenu ul.ul1 li.li1:hover ul.ul2 {
+              opacity: 1; }
+          body #muiSite #muiHeader #muiMainMenu ul.ul1 li.li1.no-border a {
+            border-color: transparent; }
+          @media (min-width: 992px) {
+            body #muiSite #muiHeader #muiMainMenu ul.ul1 li.li1 ul.ul2 {
+              opacity: 0;
+              -webkit-transition: opacity 0.25s ease-in;
+              -o-transition: opacity 0.25s ease-in;
+              transition: opacity 0.25s ease-in;
+              -webkit-box-shadow: 0 2px 10px rgba(0, 0, 0, 0.26);
+              box-shadow: 0 2px 10px rgba(0, 0, 0, 0.26);
+              position: absolute;
+              left: 0;
+              bottom: 0;
+              -webkit-transform: translateY(100%);
+              -ms-transform: translateY(100%);
+              transform: translateY(100%);
+              right: 0;
+              background-color: #fff;
+              margin-top: 10px;
+              z-index: 99;
+              padding: 45px 8.6%;
+              display: none; } }
+          @media (min-width: 992px) {
+            body #muiSite #muiHeader #muiMainMenu ul.ul1 li.li1 ul.ul2 li.li2 {
+              width: 33%;
+              border-right: 1px solid #d8d8d8;
+              display: -webkit-box;
+              display: -ms-flexbox;
+              display: flex;
+              padding: 0 21px 0 64px; }
+              body #muiSite #muiHeader #muiMainMenu ul.ul1 li.li1 ul.ul2 li.li2:first-of-type {
+                padding-left: 0; }
+              body #muiSite #muiHeader #muiMainMenu ul.ul1 li.li1 ul.ul2 li.li2:last-of-type {
+                padding-right: 0;
+                border-right: none; } }
+          body #muiSite #muiHeader #muiMainMenu ul.ul1 li.li1 ul.ul2 li.li2 ul.ul3 {
+            position: relative; }
+            body #muiSite #muiHeader #muiMainMenu ul.ul1 li.li1 ul.ul2 li.li2 ul.ul3 li.li3 {
+              display: none; }
+              @media (min-width: 992px) {
+                body #muiSite #muiHeader #muiMainMenu ul.ul1 li.li1 ul.ul2 li.li2 ul.ul3 li.li3 {
+                  width: 100%;
+                  display: inline-block; } }
+              @media (min-width: 992px) {
+                body #muiSite #muiHeader #muiMainMenu ul.ul1 li.li1 ul.ul2 li.li2 ul.ul3 li.li3 a {
+                  line-height: 1.75;
+                  padding-left: 20px; }
+                  body #muiSite #muiHeader #muiMainMenu ul.ul1 li.li1 ul.ul2 li.li2 ul.ul3 li.li3 a:before {
+                    height: 9px;
+                    width: 5px; } }
+              body #muiSite #muiHeader #muiMainMenu ul.ul1 li.li1 ul.ul2 li.li2 ul.ul3 li.li3:nth-of-type(2) {
+                padding-top: 67px; }
+              body #muiSite #muiHeader #muiMainMenu ul.ul1 li.li1 ul.ul2 li.li2 ul.ul3 li.li3.main-point {
+                position: relative; }
+                @media (min-width: 992px) {
+                  body #muiSite #muiHeader #muiMainMenu ul.ul1 li.li1 ul.ul2 li.li2 ul.ul3 li.li3.main-point {
+                    position: absolute;
+                    left: 0; } }
+                @media (min-width: 992px) {
+                  body #muiSite #muiHeader #muiMainMenu ul.ul1 li.li1 ul.ul2 li.li2 ul.ul3 li.li3.main-point a {
+                    margin-bottom: 17px;
+                    line-height: 1.2; } }
+                body #muiSite #muiHeader #muiMainMenu ul.ul1 li.li1 ul.ul2 li.li2 ul.ul3 li.li3.main-point a:before {
+                  height: 13px;
+                  width: 7px; }
+          body #muiSite #muiHeader #muiMainMenu ul.ul1 li.li1 ul.ul2 li.li2.has-no-main-points {
+            width: 100%; }
+            @media (min-width: 992px) {
+              body #muiSite #muiHeader #muiMainMenu ul.ul1 li.li1 ul.ul2 li.li2.has-no-main-points ul.ul3 {
+                -webkit-column-count: 2;
+                column-count: 2; } }
+            body #muiSite #muiHeader #muiMainMenu ul.ul1 li.li1 ul.ul2 li.li2.has-no-main-points ul.ul3 li.li3:nth-of-type(2) {
+              padding-top: 0; }
+      body #muiSite #muiHeader #muiMainMenu.submenu-active ul.ul1 li.li1:last-of-type {
+        border-bottom: none; }
+      body #muiSite #muiHeader #muiMainMenu.submenu-active .muiMetaMenu-mobile {
+        display: none; }
+      body #muiSite #muiHeader #muiMainMenu.submenu-active .muiSearch-mobile {
+        display: none; }
+      body #muiSite #muiHeader #muiMainMenu.submenu-active ul.ul1 li.back-btn {
+        display: block;
+        border-top: 1px solid #d8d8d8;
+        padding: 23px 0 14px 0;
+        width: 100%; }
+        body #muiSite #muiHeader #muiMainMenu.submenu-active ul.ul1 li.back-btn a {
+          position: relative;
+          padding-left: 17px;
+          color: #4e8ca5; }
+        body #muiSite #muiHeader #muiMainMenu.submenu-active ul.ul1 li.back-btn span svg, body #muiSite #muiHeader #muiMainMenu.submenu-active ul.ul1 li.back-btn span img {
+          top: 50%;
+          left: 0;
+          right: auto; }
+      body #muiSite #muiHeader #muiMainMenu.submenu-active ul.ul1 li.li1 {
+        display: none; }
+        body #muiSite #muiHeader #muiMainMenu.submenu-active ul.ul1 li.li1.subebene-1 {
+          display: block; }
+          body #muiSite #muiHeader #muiMainMenu.submenu-active ul.ul1 li.li1.subebene-1 p {
+            padding-bottom: 11px; }
+            body #muiSite #muiHeader #muiMainMenu.submenu-active ul.ul1 li.li1.subebene-1 p > span {
+              display: none; }
+          body #muiSite #muiHeader #muiMainMenu.submenu-active ul.ul1 li.li1.subebene-1 a {
+            line-height: 1;
+            color: #DB363D; }
+          body #muiSite #muiHeader #muiMainMenu.submenu-active ul.ul1 li.li1.subebene-1 .ul2 .li2 {
+            padding-right: 0;
+            width: 100%; }
+            body #muiSite #muiHeader #muiMainMenu.submenu-active ul.ul1 li.li1.subebene-1 .ul2 .li2:first-of-type .ul3 .li3 {
+              border-top: solid 1px #d8d8d8; }
+            body #muiSite #muiHeader #muiMainMenu.submenu-active ul.ul1 li.li1.subebene-1 .ul2 .li2 .ul3 .li3 {
+              width: 100%;
+              border-bottom: 1px solid #d8d8d8; }
+              body #muiSite #muiHeader #muiMainMenu.submenu-active ul.ul1 li.li1.subebene-1 .ul2 .li2 .ul3 .li3 a {
+                padding-top: 15px;
+                padding-bottom: 20px;
+                line-height: 1;
+                padding-left: 0; }
+                body #muiSite #muiHeader #muiMainMenu.submenu-active ul.ul1 li.li1.subebene-1 .ul2 .li2 .ul3 .li3 a:before {
+                  display: none; }
+              body #muiSite #muiHeader #muiMainMenu.submenu-active ul.ul1 li.li1.subebene-1 .ul2 .li2 .ul3 .li3 > span svg {
+                top: 27px; }
+              body #muiSite #muiHeader #muiMainMenu.submenu-active ul.ul1 li.li1.subebene-1 .ul2 .li2 .ul3 .li3.main-point {
+                display: block; }
+            body #muiSite #muiHeader #muiMainMenu.submenu-active ul.ul1 li.li1.subebene-1 .ul2 .li2.has-no-main-points .ul3 .li3 {
+              display: block; }
+        body #muiSite #muiHeader #muiMainMenu.submenu-active ul.ul1 li.li1.subebene-2 {
+          padding: 0;
+          display: block; }
+          body #muiSite #muiHeader #muiMainMenu.submenu-active ul.ul1 li.li1.subebene-2 p {
+            display: none; }
+          body #muiSite #muiHeader #muiMainMenu.submenu-active ul.ul1 li.li1.subebene-2 .ul2 .li2 {
+            padding-right: 0;
+            width: 100%; }
+            body #muiSite #muiHeader #muiMainMenu.submenu-active ul.ul1 li.li1.subebene-2 .ul2 .li2 .ul3.active {
+              width: 100%; }
+              body #muiSite #muiHeader #muiMainMenu.submenu-active ul.ul1 li.li1.subebene-2 .ul2 .li2 .ul3.active .li3 {
+                width: 100%;
+                display: block;
+                border-bottom: 1px solid #d8d8d8; }
+                body #muiSite #muiHeader #muiMainMenu.submenu-active ul.ul1 li.li1.subebene-2 .ul2 .li2 .ul3.active .li3.main-point span {
+                  display: none; }
+                body #muiSite #muiHeader #muiMainMenu.submenu-active ul.ul1 li.li1.subebene-2 .ul2 .li2 .ul3.active .li3.main-point a {
+                  color: #DB363D; }
+                body #muiSite #muiHeader #muiMainMenu.submenu-active ul.ul1 li.li1.subebene-2 .ul2 .li2 .ul3.active .li3:nth-of-type(2) {
+                  padding-top: 0; }
+                body #muiSite #muiHeader #muiMainMenu.submenu-active ul.ul1 li.li1.subebene-2 .ul2 .li2 .ul3.active .li3 a {
+                  padding-top: 20px;
+                  padding-bottom: 25px;
+                  line-height: 1;
+                  padding-left: 0; }
+                  body #muiSite #muiHeader #muiMainMenu.submenu-active ul.ul1 li.li1.subebene-2 .ul2 .li2 .ul3.active .li3 a:before {
+                    display: none; }
+                body #muiSite #muiHeader #muiMainMenu.submenu-active ul.ul1 li.li1.subebene-2 .ul2 .li2 .ul3.active .li3 > span svg {
+                  top: 27px; }
+    body #muiSite #muiHeader #muiMainMenu_fixed {
+      position: fixed;
+      top: 0;
+      -webkit-transform: translateY(-100%);
+      -ms-transform: translateY(-100%);
+      transform: translateY(-100%);
+      opacity: 0;
+      pointer-events: none;
+      width: 100%;
+      left: 0;
+      background-color: #fff;
+      z-index: 100;
+      -webkit-transition: -webkit-transform 0.3s ease-in-out;
+      transition: -webkit-transform 0.3s ease-in-out;
+      -o-transition: transform 0.3s ease-in-out;
+      transition: transform 0.3s ease-in-out;
+      transition: transform 0.3s ease-in-out, -webkit-transform 0.3s ease-in-out; }
+      body #muiSite #muiHeader #muiMainMenu_fixed.fixed {
+        -webkit-transform: translateY(0);
+        -ms-transform: translateY(0);
+        transform: translateY(0); }
+      body #muiSite #muiHeader #muiMainMenu_fixed #muiSearchFixed {
+        position: absolute;
+        right: 15px;
+        top: 0;
+        height: 100%;
+        width: 10%; }
+        body #muiSite #muiHeader #muiMainMenu_fixed #muiSearchFixed #muiSucheFixed {
+          height: 100%; }
+          body #muiSite #muiHeader #muiMainMenu_fixed #muiSearchFixed #muiSucheFixed .formItem {
+            padding: 0;
+            height: 100%; }
+            body #muiSite #muiHeader #muiMainMenu_fixed #muiSearchFixed #muiSucheFixed .formItem input.x2 {
+              -webkit-transition: width 0.25s ease-in-out;
+              -o-transition: width 0.25s ease-in-out;
+              transition: width 0.25s ease-in-out;
+              width: 0;
+              padding: 0;
+              border: 0;
+              position: absolute;
+              bottom: 16px;
+              right: calc(100% + 155px);
+              border-bottom: 2px solid #4e8ca5;
+              background-color: #fff;
+              z-index: 2;
+              outline: none; }
+            body #muiSite #muiHeader #muiMainMenu_fixed #muiSearchFixed #muiSucheFixed .formItem select {
+              -webkit-appearance: none;
+              -moz-appearance: none;
+              appearance: none;
+              border-radius: 0;
+              background: none;
+              bottom: 16px;
+              right: 100%;
+              position: absolute;
+              width: 150px;
+              z-index: -1;
+              opacity: 0;
+              -webkit-transition: opacity 0.4s ease-in;
+              -o-transition: opacity 0.4s ease-in;
+              transition: opacity 0.4s ease-in;
+              border: none;
+              border-bottom: 2px solid #4e8ca5; }
+            body #muiSite #muiHeader #muiMainMenu_fixed #muiSearchFixed #muiSucheFixed .formItem img.arrow-down {
+              position: absolute;
+              right: calc(100% + 20px);
+              z-index: -1;
+              bottom: 28px;
+              height: 11px;
+              width: 18px;
+              opacity: 0;
+              -webkit-transition: opacity 0.4s ease-in;
+              -o-transition: opacity 0.4s ease-in;
+              transition: opacity 0.4s ease-in; }
+            body #muiSite #muiHeader #muiMainMenu_fixed #muiSearchFixed #muiSucheFixed .formItem p.button {
+              margin: 0;
+              height: 100%;
+              background: none;
+              border: none;
+              z-index: 2; }
+              body #muiSite #muiHeader #muiMainMenu_fixed #muiSearchFixed #muiSucheFixed .formItem p.button img {
+                position: absolute;
+                bottom: 16px;
+                right: 0;
+                width: 20px;
+                height: 20px;
+                -webkit-transform: translateY(-50%);
+                -ms-transform: translateY(-50%);
+                transform: translateY(-50%);
+                z-index: 2; }
+            body #muiSite #muiHeader #muiMainMenu_fixed #muiSearchFixed #muiSucheFixed .formItem.search_open:after {
+              content: '';
+              position: fixed;
+              width: 100%;
+              height: 100%;
+              left: 0;
+              z-index: 1;
+              background-color: #fff; }
+            body #muiSite #muiHeader #muiMainMenu_fixed #muiSearchFixed #muiSucheFixed .formItem.search_open select {
+              opacity: 1;
+              z-index: 2; }
+            body #muiSite #muiHeader #muiMainMenu_fixed #muiSearchFixed #muiSucheFixed .formItem.search_open img.arrow-down {
+              opacity: 1;
+              z-index: 2; }
+      body #muiSite #muiHeader #muiMainMenu_fixed .logo {
+        top: 50%;
+        -webkit-transform: translateY(-50%) translateX(-50%);
+        -ms-transform: translateY(-50%) translateX(-50%);
+        transform: translateY(-50%) translateX(-50%);
+        left: 50%;
+        z-index: 2; }
+        body #muiSite #muiHeader #muiMainMenu_fixed .logo img {
+          height: 47px;
+          width: auto; 
+          margin-bottom: 15px; }
+      body #muiSite #muiHeader #muiMainMenu_fixed.active {
+        pointer-events: auto;
+        opacity: 1;
+        opacity: 1;
+        -webkit-transition: opacity 0.25s ease-in;
+        -o-transition: opacity 0.25s ease-in;
+        transition: opacity 0.25s ease-in; }
+      @media (min-width: 991px) {
+        body #muiSite #muiHeader #muiMainMenu_fixed {
+          opacity: 1;
+          pointer-events: auto;
+          max-width: none; } }
+      @media (max-width: 991px) {
+        body #muiSite #muiHeader #muiMainMenu_fixed {
+          position: fixed;
+          left: 0;
+          top: 0;
+          height: 100vh;
+          width: 100vw;
+          background-color: #fff;
+          z-index: 999;
+          margin: 0;
+          overflow-y: scroll; } }
+      body #muiSite #muiHeader #muiMainMenu_fixed .mobile-menu-header {
+        position: relative;
+        display: block;
+        margin-top: 20px; }
+        @media (min-width: 992px) {
+          body #muiSite #muiHeader #muiMainMenu_fixed .mobile-menu-header {
+            display: none; } }
+        body #muiSite #muiHeader #muiMainMenu_fixed .mobile-menu-header .close svg {
+          height: 32px;
+          width: 32px;
+          position: absolute;
+          right: 15px;
+          top: 50%;
+          -webkit-transform: translateY(-50%);
+          -ms-transform: translateY(-50%);
+          transform: translateY(-50%); }
+          @media (min-width: 500px) {
+            body #muiSite #muiHeader #muiMainMenu_fixed .mobile-menu-header .close svg {
+              width: 40px;
+              height: 40px; } }
+          body #muiSite #muiHeader #muiMainMenu_fixed .mobile-menu-header .close svg .cross {
+            fill: #4e8ca5; }
+      body #muiSite #muiHeader #muiMainMenu_fixed p {
+        font-size: 1rem;
+        line-height: 1; }
+      body #muiSite #muiHeader #muiMainMenu_fixed ul.ul1 {
+        list-style: none;
+        margin-bottom: 0;
+        padding-right: 10%; }
+        @media (max-width: 991px) {
+          body #muiSite #muiHeader #muiMainMenu_fixed ul.ul1 {
+            -webkit-box-pack: normal !important;
+            -ms-flex-pack: normal !important;
+            justify-content: normal !important;
+            display: inline-block !important;
+            width: 100%;
+            padding: 20px 37px 0 34px;
+            margin-bottom: 0; } }
+        body #muiSite #muiHeader #muiMainMenu_fixed ul.ul1 li span {
+          display: none; }
+        body #muiSite #muiHeader #muiMainMenu_fixed ul.ul1 li.has-submenu > span, body #muiSite #muiHeader #muiMainMenu_fixed ul.ul1 li.has-submenu p > span, body #muiSite #muiHeader #muiMainMenu_fixed ul.ul1 li.has-submenu a > span, body #muiSite #muiHeader #muiMainMenu_fixed ul.ul1 li.back-btn > span, body #muiSite #muiHeader #muiMainMenu_fixed ul.ul1 li.back-btn p > span, body #muiSite #muiHeader #muiMainMenu_fixed ul.ul1 li.back-btn a > span {
+          display: inline; }
+          body #muiSite #muiHeader #muiMainMenu_fixed ul.ul1 li.has-submenu > span svg, body #muiSite #muiHeader #muiMainMenu_fixed ul.ul1 li.has-submenu p > span svg, body #muiSite #muiHeader #muiMainMenu_fixed ul.ul1 li.has-submenu a > span svg, body #muiSite #muiHeader #muiMainMenu_fixed ul.ul1 li.back-btn > span svg, body #muiSite #muiHeader #muiMainMenu_fixed ul.ul1 li.back-btn p > span svg, body #muiSite #muiHeader #muiMainMenu_fixed ul.ul1 li.back-btn a > span svg {
+            width: 7px;
+            height: 13px;
+            position: absolute;
+            right: 0;
+            top: 11px;
+            -webkit-transform: translateY(-50%);
+            -ms-transform: translateY(-50%);
+            transform: translateY(-50%);
+            cursor: pointer; }
+          @media (min-width: 992px) {
+            body #muiSite #muiHeader #muiMainMenu_fixed ul.ul1 li.has-submenu > span, body #muiSite #muiHeader #muiMainMenu_fixed ul.ul1 li.has-submenu p > span, body #muiSite #muiHeader #muiMainMenu_fixed ul.ul1 li.has-submenu a > span, body #muiSite #muiHeader #muiMainMenu_fixed ul.ul1 li.back-btn > span, body #muiSite #muiHeader #muiMainMenu_fixed ul.ul1 li.back-btn p > span, body #muiSite #muiHeader #muiMainMenu_fixed ul.ul1 li.back-btn a > span {
+              display: none; } }
+          body #muiSite #muiHeader #muiMainMenu_fixed ul.ul1 li.has-submenu > span img, body #muiSite #muiHeader #muiMainMenu_fixed ul.ul1 li.has-submenu p > span img, body #muiSite #muiHeader #muiMainMenu_fixed ul.ul1 li.has-submenu a > span img, body #muiSite #muiHeader #muiMainMenu_fixed ul.ul1 li.back-btn > span img, body #muiSite #muiHeader #muiMainMenu_fixed ul.ul1 li.back-btn p > span img, body #muiSite #muiHeader #muiMainMenu_fixed ul.ul1 li.back-btn a > span img {
+            width: 7px;
+            height: 13px;
+            position: absolute;
+            right: 0;
+            top: 11px;
+            -webkit-transform: translateY(-50%);
+            -ms-transform: translateY(-50%);
+            transform: translateY(-50%);
+            cursor: pointer; }
+        body #muiSite #muiHeader #muiMainMenu_fixed ul.ul1 li.has-submenu.back-btn, body #muiSite #muiHeader #muiMainMenu_fixed ul.ul1 li.back-btn.back-btn {
+          display: none; }
+          body #muiSite #muiHeader #muiMainMenu_fixed ul.ul1 li.has-submenu.back-btn span img, body #muiSite #muiHeader #muiMainMenu_fixed ul.ul1 li.back-btn.back-btn span img {
+            -webkit-transform: translateY(-50%) rotateY(180deg);
+            transform: translateY(-50%) rotateY(180deg); }
+        body #muiSite #muiHeader #muiMainMenu_fixed ul.ul1 li.li1 {
+          padding: 19px 0 16px 0;
+          -webkit-box-flex: 1;
+          -ms-flex: auto;
+          flex: auto;
+          -webkit-transition: -webkit-box-shadow 0.25s ease-in-out;
+          transition: -webkit-box-shadow 0.25s ease-in-out;
+          -o-transition: box-shadow 0.25s ease-in-out;
+          transition: box-shadow 0.25s ease-in-out;
+          transition: box-shadow 0.25s ease-in-out, -webkit-box-shadow 0.25s ease-in-out; }
+          @media (max-width: 991px) {
+            body #muiSite #muiHeader #muiMainMenu_fixed ul.ul1 li.li1 {
+              -webkit-box-flex: 0;
+              -ms-flex: none;
+              flex: none;
+              display: block;
+              width: 100%;
+              padding: 20px 0 11px 0;
+              border-top: 1px solid #d8d8d8; }
+              body #muiSite #muiHeader #muiMainMenu_fixed ul.ul1 li.li1:last-of-type {
+                border-bottom: 1px solid #d8d8d8; } }
+          body #muiSite #muiHeader #muiMainMenu_fixed ul.ul1 li.li1 p {
+            margin: 0;
+            position: relative; }
+            body #muiSite #muiHeader #muiMainMenu_fixed ul.ul1 li.li1 p a {
+              width: 100%;
+              display: block;
+              -webkit-transition: border-color 0.25s ease-in;
+              -o-transition: border-color 0.25s ease-in;
+              transition: border-color 0.25s ease-in;
+              color: #4e8ca5;
+              text-align: center;
+              border-right: 2px solid #d8d8d8; }
+              body #muiSite #muiHeader #muiMainMenu_fixed ul.ul1 li.li1 p a:hover {
+                text-decoration: none; }
+              @media (max-width: 991px) {
+                body #muiSite #muiHeader #muiMainMenu_fixed ul.ul1 li.li1 p a {
+                  margin-right: 30px;
+                  text-align: left;
+                  border: none;
+                  line-height: 1;
+                  position: relative; } }
+          body #muiSite #muiHeader #muiMainMenu_fixed ul.ul1 li.li1:last-of-type a {
+            border-right: none; }
+          body #muiSite #muiHeader #muiMainMenu_fixed ul.ul1 li.li1:hover {
+            -webkit-box-shadow: 0 2px 10px rgba(0, 0, 0, 0.26);
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.26); }
+            body #muiSite #muiHeader #muiMainMenu_fixed ul.ul1 li.li1:hover a {
+              border-color: transparent; }
+            body #muiSite #muiHeader #muiMainMenu_fixed ul.ul1 li.li1:hover p {
+              position: relative; }
+              body #muiSite #muiHeader #muiMainMenu_fixed ul.ul1 li.li1:hover p:after {
+                content: '';
+                width: 100%;
+                position: absolute;
+                left: 0;
+                top: 26px;
+                height: 18px;
+                background-color: #fff;
+                z-index: 110; }
+            body #muiSite #muiHeader #muiMainMenu_fixed ul.ul1 li.li1:hover ul.ul2 {
+              display: -webkit-box;
+              display: -ms-flexbox;
+              display: flex; }
+            body #muiSite #muiHeader #muiMainMenu_fixed ul.ul1 li.li1:hover ul.ul2 {
+              opacity: 1; }
+          body #muiSite #muiHeader #muiMainMenu_fixed ul.ul1 li.li1.no-border a {
+            border-color: transparent; }
+          @media (min-width: 992px) {
+            body #muiSite #muiHeader #muiMainMenu_fixed ul.ul1 li.li1 ul.ul2 {
+              opacity: 0;
+              display: none;
+              -webkit-transition: opacity 0.25s ease-in;
+              -o-transition: opacity 0.25s ease-in;
+              transition: opacity 0.25s ease-in;
+              -webkit-box-shadow: 0 2px 10px rgba(0, 0, 0, 0.26);
+              box-shadow: 0 2px 10px rgba(0, 0, 0, 0.26);
+              position: absolute;
+              left: 0;
+              right: 0;
+              background-color: #fff;
+              margin-top: 10px;
+              z-index: 99;
+              padding: 45px 8.6%; } }
+          @media (min-width: 992px) {
+            body #muiSite #muiHeader #muiMainMenu_fixed ul.ul1 li.li1 ul.ul2 li.li2 {
+              width: 33%;
+              border-right: 1px solid #d8d8d8;
+              display: -webkit-box;
+              display: -ms-flexbox;
+              display: flex;
+              padding: 0 21px 0 64px; }
+              body #muiSite #muiHeader #muiMainMenu_fixed ul.ul1 li.li1 ul.ul2 li.li2:first-of-type {
+                padding-left: 0; }
+              body #muiSite #muiHeader #muiMainMenu_fixed ul.ul1 li.li1 ul.ul2 li.li2:last-of-type {
+                padding-right: 0;
+                border-right: none; } }
+          body #muiSite #muiHeader #muiMainMenu_fixed ul.ul1 li.li1 ul.ul2 li.li2.has-no-main-points {
+            width: 100%; }
+            @media (min-width: 992px) {
+              body #muiSite #muiHeader #muiMainMenu_fixed ul.ul1 li.li1 ul.ul2 li.li2.has-no-main-points ul.ul3 {
+                -webkit-column-count: 2;
+                column-count: 2; } }
+            body #muiSite #muiHeader #muiMainMenu_fixed ul.ul1 li.li1 ul.ul2 li.li2.has-no-main-points ul.ul3 li.li3:nth-of-type(2) {
+              padding-top: 0; }
+          body #muiSite #muiHeader #muiMainMenu_fixed ul.ul1 li.li1 ul.ul2 li.li2 ul.ul3 {
+            position: relative; }
+            body #muiSite #muiHeader #muiMainMenu_fixed ul.ul1 li.li1 ul.ul2 li.li2 ul.ul3 li.li3 {
+              display: none; }
+              @media (min-width: 992px) {
+                body #muiSite #muiHeader #muiMainMenu_fixed ul.ul1 li.li1 ul.ul2 li.li2 ul.ul3 li.li3 {
+                  width: 100%;
+                  display: inline-block; } }
+              @media (min-width: 992px) {
+                body #muiSite #muiHeader #muiMainMenu_fixed ul.ul1 li.li1 ul.ul2 li.li2 ul.ul3 li.li3 a {
+                  display: inline-block;
+                  line-height: 1.75;
+                  padding-left: 20px; }
+                  body #muiSite #muiHeader #muiMainMenu_fixed ul.ul1 li.li1 ul.ul2 li.li2 ul.ul3 li.li3 a:before {
+                    height: 9px;
+                    width: 5px; } }
+              body #muiSite #muiHeader #muiMainMenu_fixed ul.ul1 li.li1 ul.ul2 li.li2 ul.ul3 li.li3:nth-of-type(2) {
+                padding-top: 67px; }
+              @media (min-width: 992px) {
+                body #muiSite #muiHeader #muiMainMenu_fixed ul.ul1 li.li1 ul.ul2 li.li2 ul.ul3 li.li3.main-point {
+                  position: absolute; } }
+              @media (min-width: 992px) {
+                body #muiSite #muiHeader #muiMainMenu_fixed ul.ul1 li.li1 ul.ul2 li.li2 ul.ul3 li.li3.main-point a {
+                  margin-bottom: 17px;
+                  line-height: 1.2; } }
+              body #muiSite #muiHeader #muiMainMenu_fixed ul.ul1 li.li1 ul.ul2 li.li2 ul.ul3 li.li3.main-point a:before {
+                height: 13px;
+                width: 7px; }
+      body #muiSite #muiHeader #muiMainMenu_fixed.submenu-active .muiMetaMenu-mobile {
+        display: none; }
+      body #muiSite #muiHeader #muiMainMenu_fixed.submenu-active .muiSearch-mobile {
+        display: none; }
+      body #muiSite #muiHeader #muiMainMenu_fixed.submenu-active ul.ul1 li.back-btn {
+        display: block;
+        border-top: 1px solid #d8d8d8;
+        padding: 23px 0 14px 0;
+        width: 100%; }
+        body #muiSite #muiHeader #muiMainMenu_fixed.submenu-active ul.ul1 li.back-btn a {
+          position: relative;
+          padding-left: 17px;
+          color: #4e8ca5; }
+        body #muiSite #muiHeader #muiMainMenu_fixed.submenu-active ul.ul1 li.back-btn span svg, body #muiSite #muiHeader #muiMainMenu_fixed.submenu-active ul.ul1 li.back-btn span img {
+          top: 50%;
+          left: 0;
+          right: auto; }
+      body #muiSite #muiHeader #muiMainMenu_fixed.submenu-active ul.ul1 li.li1 {
+        display: none; }
+        body #muiSite #muiHeader #muiMainMenu_fixed.submenu-active ul.ul1 li.li1.subebene-1 {
+          display: block; }
+          body #muiSite #muiHeader #muiMainMenu_fixed.submenu-active ul.ul1 li.li1.subebene-1 p {
+            padding-bottom: 11px; }
+            body #muiSite #muiHeader #muiMainMenu_fixed.submenu-active ul.ul1 li.li1.subebene-1 p > span {
+              display: none; }
+          body #muiSite #muiHeader #muiMainMenu_fixed.submenu-active ul.ul1 li.li1.subebene-1 a {
+            line-height: 1;
+            color: #DB363D; }
+          body #muiSite #muiHeader #muiMainMenu_fixed.submenu-active ul.ul1 li.li1.subebene-1 .ul2 .li2 {
+            padding-right: 0;
+            width: 100%; }
+            body #muiSite #muiHeader #muiMainMenu_fixed.submenu-active ul.ul1 li.li1.subebene-1 .ul2 .li2:first-of-type .ul3 .li3 {
+              border-top: solid 1px #d8d8d8; }
+            body #muiSite #muiHeader #muiMainMenu_fixed.submenu-active ul.ul1 li.li1.subebene-1 .ul2 .li2 .ul3 .li3 {
+              width: 100%;
+              border-bottom: 1px solid #d8d8d8; }
+              body #muiSite #muiHeader #muiMainMenu_fixed.submenu-active ul.ul1 li.li1.subebene-1 .ul2 .li2 .ul3 .li3 a {
+                padding-top: 15px;
+                padding-bottom: 20px;
+                line-height: 1;
+                padding-left: 0; }
+                body #muiSite #muiHeader #muiMainMenu_fixed.submenu-active ul.ul1 li.li1.subebene-1 .ul2 .li2 .ul3 .li3 a:before {
+                  display: none; }
+              body #muiSite #muiHeader #muiMainMenu_fixed.submenu-active ul.ul1 li.li1.subebene-1 .ul2 .li2 .ul3 .li3 > span svg {
+                top: 27px; }
+              body #muiSite #muiHeader #muiMainMenu_fixed.submenu-active ul.ul1 li.li1.subebene-1 .ul2 .li2 .ul3 .li3.main-point {
+                display: block; }
+        body #muiSite #muiHeader #muiMainMenu_fixed.submenu-active ul.ul1 li.li1.subebene-2 {
+          padding: 0;
+          display: block; }
+          body #muiSite #muiHeader #muiMainMenu_fixed.submenu-active ul.ul1 li.li1.subebene-2 p {
+            display: none; }
+          body #muiSite #muiHeader #muiMainMenu_fixed.submenu-active ul.ul1 li.li1.subebene-2 .ul2 .li2 {
+            padding-right: 0;
+            width: 100%; }
+            body #muiSite #muiHeader #muiMainMenu_fixed.submenu-active ul.ul1 li.li1.subebene-2 .ul2 .li2 .ul3.active {
+              width: 100%; }
+              body #muiSite #muiHeader #muiMainMenu_fixed.submenu-active ul.ul1 li.li1.subebene-2 .ul2 .li2 .ul3.active .li3 {
+                width: 100%;
+                display: block;
+                border-bottom: 1px solid #d8d8d8; }
+                body #muiSite #muiHeader #muiMainMenu_fixed.submenu-active ul.ul1 li.li1.subebene-2 .ul2 .li2 .ul3.active .li3.main-point span {
+                  display: none; }
+                body #muiSite #muiHeader #muiMainMenu_fixed.submenu-active ul.ul1 li.li1.subebene-2 .ul2 .li2 .ul3.active .li3.main-point a {
+                  color: #DB363D; }
+                body #muiSite #muiHeader #muiMainMenu_fixed.submenu-active ul.ul1 li.li1.subebene-2 .ul2 .li2 .ul3.active .li3:nth-of-type(2) {
+                  padding-top: 0; }
+                body #muiSite #muiHeader #muiMainMenu_fixed.submenu-active ul.ul1 li.li1.subebene-2 .ul2 .li2 .ul3.active .li3 a {
+                  padding-top: 20px;
+                  padding-bottom: 25px;
+                  line-height: 1;
+                  padding-left: 0; }
+                  body #muiSite #muiHeader #muiMainMenu_fixed.submenu-active ul.ul1 li.li1.subebene-2 .ul2 .li2 .ul3.active .li3 a:before {
+                    display: none; }
+                body #muiSite #muiHeader #muiMainMenu_fixed.submenu-active ul.ul1 li.li1.subebene-2 .ul2 .li2 .ul3.active .li3 > span svg {
+                  top: 27px; }
+    body #muiSite #muiHeader .logo {
+      left: 0;
+      right: auto; }
+      @media (max-width: 991px) {
+        body #muiSite #muiHeader .logo {
+          position: relative;
+          display: inline-block;
+          top: 0; } }
+      body #muiSite #muiHeader .logo a img {
+        width: auto;
+        height: 80px; }
+        @media (min-width: 576px) {
+          body #muiSite #muiHeader .logo a img {
+            height: 100px;
+            width: auto; } }
+        @media (min-width: 768px) {
+          body #muiSite #muiHeader .logo a img {
+            height: 120px;
+            width: auto; } }
+        @media (min-width: 992px) {
+          body #muiSite #muiHeader .logo a img {
+            height: 115px;
+            width: auto; 
+            margin-top: 15px;
+} }
+    body #muiSite #muiHeader .burgericon {
+      display: inline-block;
+      position: absolute;
+      right: 0;
+      top: 50%;
+      -webkit-transform: translateY(-50%);
+      -ms-transform: translateY(-50%);
+      transform: translateY(-50%); }
+      @media (min-width: 992px) {
+        body #muiSite #muiHeader .burgericon {
+          display: none; } }
+      body #muiSite #muiHeader .burgericon img {
+        height: 26px;
+        width: 40px; }
+        @media (min-width: 500px) {
+          body #muiSite #muiHeader .burgericon img {
+            width: 50px;
+            height: 32.5px; } }
+      body #muiSite #muiHeader .burgericon a span {
+        color: #4e8ca5;
+        text-transform: uppercase;
+        display: block;
+        width: 100%;
+        text-align: center; }
+      body #muiSite #muiHeader .burgericon a:hover {
+        text-decoration: none; }
+    body #muiSite #muiHeader #muiSearch {
+      display: none;
+      position: absolute;
+      top: 0;
+      right: 0; }
+      @media (min-width: 992px) {
+        body #muiSite #muiHeader #muiSearch {
+          display: block; } }
+      body #muiSite #muiHeader #muiSearch img.arrow-down {
+        position: absolute;
+        top: 12px;
+        right: 35px; }
+      body #muiSite #muiHeader #muiSearch .x2 {
+        padding: 3px;
+        width: 130px;
+        background: none;
+        outline: none;
+        margin-right: 0;
+        font-size: 16px;
+        line-height: 1.4;
+        vertical-align: top;
+        border: 1px solid #d8d8d8;
+        height: 30px; }
+        body #muiSite #muiHeader #muiSearch .x2.text {
+          width: 160px; }
+        body #muiSite #muiHeader #muiSearch .x2.select {
+          -webkit-appearance: none;
+          -moz-appearance: none;
+          border-radius: 0;
+          margin-left: 0;
+          position: relative; }
+        @media (min-width: 992px) and (max-width: 1199px) {
+          body #muiSite #muiHeader #muiSearch .x2 {
+            width: 110px; }
+            body #muiSite #muiHeader #muiSearch .x2.text {
+              width: 100px; } }
+        body #muiSite #muiHeader #muiSearch .x2::-webkit-input-placeholder {
+          color: #494D4F;
+          opacity: 0.3; }
+        body #muiSite #muiHeader #muiSearch .x2:-ms-input-placeholder {
+          color: #494D4F;
+          opacity: 0.3; }
+        body #muiSite #muiHeader #muiSearch .x2::-ms-input-placeholder {
+          color: #494D4F;
+          opacity: 0.3; }
+        body #muiSite #muiHeader #muiSearch .x2::placeholder {
+          color: #494D4F;
+          opacity: 0.3; }
+      body #muiSite #muiHeader #muiSearch p.button {
+        border: none;
+        right: 0;
+        top: 5px;
+        margin: 0;
+        background: none; }
+        body #muiSite #muiHeader #muiSearch p.button a {
+          width: auto;
+          padding: 0; }
+          body #muiSite #muiHeader #muiSearch p.button a img {
+            width: 30px;
+            height: 30px;
+            padding: 6px;
+            vertical-align: top;
+            border: 1px solid #4e8ca5;
+            margin-left: 0;
+            background-color: #4e8ca5; }
+
+body #muiSite #muiFooter {
+  padding-top: 48px;
+  padding-bottom: 15px;
+  background: none;
+  background-color: #DADADA;
+  height: auto;
+  margin: 0; }
+  @media (max-width: 767px) {
+    body #muiSite #muiFooter {
+      padding: 30px 5px 35px 5px; } }
+  @media (min-width: 768px) {
+    body #muiSite #muiFooter .footer-logo {
+      padding-right: 44px;
+      display: inline-block; } }
+  body #muiSite #muiFooter .footer-logo a img {
+    width: 96px;
+    height: 101px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    margin-bottom: 30px; }
+    @media (min-width: 768px) {
+      body #muiSite #muiFooter .footer-logo a img {
+        margin-bottom: 0; } }
+    @media (max-width: 767px) {
+      body #muiSite #muiFooter .footer-logo a img {
+        height: 125px;
+        width: 125px; } }
+  body #muiSite #muiFooter .footer-logo .uibk-logo-mobile {
+    width: 125px;
+    height: 32.73px; }
+  body #muiSite #muiFooter .footer-logo .kliniken-tirol-mobile {
+    width: 100px;
+    height: 68.75px; }
+  body #muiSite #muiFooter .footerlinks {
+    vertical-align: top;
+    padding: 20px 0 27px 0;
+    border-bottom: 1px solid #fff;
+    border-top: 1px solid #fff; }
+    @media (min-width: 768px) {
+      body #muiSite #muiFooter .footerlinks {
+        padding: 0;
+        display: inline-block;
+        border: none; } }
+    body #muiSite #muiFooter .footerlinks ul {
+      list-style: none;
+      display: block;
+      margin: 0;
+      width: 100%;
+      text-align: center; }
+      @media (min-width: 768px) {
+        body #muiSite #muiFooter .footerlinks ul {
+          text-align: left;
+          padding-bottom: 14px;
+          padding-left: 30px;
+          display: inline-block;
+          width: 170px;
+          border-left: 1px solid #fff; } }
+      body #muiSite #muiFooter .footerlinks ul li a {
+        color: #4e8ca5;
+        font-size: 16px;
+        line-height: 2; }
+  @media (min-width: 768px) {
+    body #muiSite #muiFooter .external_links .logos {
+      bottom: 30px;
+      position: absolute; } }
+  @media (min-width: 768px) {
+    body #muiSite #muiFooter .external_links .logos img.uibk-logo {
+      width: 100%;
+      height: 30px; } }
+  @media (min-width: 1200px) {
+    body #muiSite #muiFooter .external_links .logos img.uibk-logo {
+      margin: 0;
+      width: 40%;
+      height: 80px; } }
+  @media (min-width: 768px) {
+    body #muiSite #muiFooter .external_links .logos img.kliniken-tirol-logo {
+      margin-top: 50px;
+      width: 100%;
+      height: 60px; } }
+  @media (min-width: 1200px) {
+    body #muiSite #muiFooter .external_links .logos img.kliniken-tirol-logo {
+      margin: 0;
+      width: 40%;
+      float: right;
+      height: 80px; } }
+  body #muiSite #muiFooter .external_links .social_media {
+    position: absolute;
+    bottom: 0;
+    width: calc(100% - 30px);
+    left: 15px; }
+    body #muiSite #muiFooter .external_links .social_media a {
+      padding: 0 11px; }
+      @media (min-width: 768px) {
+        body #muiSite #muiFooter .external_links .social_media a {
+          padding: 0; } }
+    body #muiSite #muiFooter .external_links .social_media img {
+      height: 30px;
+      width: 30px; }
+    body #muiSite #muiFooter .external_links .social_media:hover {
+      text-decoration: none; }
+  body #muiSite #muiFooter .social_media-mobile {
+    padding: 32px 0 24px 0; }
+    body #muiSite #muiFooter .social_media-mobile a {
+      padding: 0 11px; }
+      body #muiSite #muiFooter .social_media-mobile a img {
+        width: 24px;
+        height: 24px; }
+        body #muiSite #muiFooter .social_media-mobile a img.twitter {
+          width: 38px;
+          height: 38px; }
+        body #muiSite #muiFooter .social_media-mobile a img.youtube {
+          height: 30px;
+          width: 30px; }
+  body #muiSite #muiFooter .footer-last-line p {
+    font-size: 16px;
+    color: #494D4F;
+    line-height: 1;
+    padding: 0 0 20px 0;
+    text-align: center; }
+    @media (min-width: 768px) {
+      body #muiSite #muiFooter .footer-last-line p {
+        text-align: left;
+        margin: 34px 0 0 0;
+        padding-top: 14px;
+        border-top: 1px solid #fff; } }
+
+.arrow-right {
+  fill: #FFFFFF;
+  fill-opacity: 0;
+  stroke: #4E8CA5;
+  stroke-width: 2;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-miterlimit: 50; }
+
+.arrow-left {
+  fill: #FFFFFF;
+  fill-opacity: 0;
+  stroke: #4E8CA5;
+  stroke-width: 2;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-miterlimit: 50; }
+
+.arrow-down .arrow-down-path {
+  fill: #FFFFFF;
+  fill-opacity: 0;
+  stroke: #4E8CA5;
+  stroke-width: 1.23;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-miterlimit: 50; }
+
+@media (min-width: 992px) {
+  body .main-container {
+    border-top: 57px solid #4e8ca5; } }
+
+@media (max-width: 575px) {
+  body .main-container {
+    padding: 0 5px; } }
+
+body .col-right {
+  padding-left: 0; }
+  @media (min-width: 992px) {
+    body .col-right {
+      border-left: 3px solid #d8d8d8; } }
+  @media (max-width: 991px) {
+    body .col-right {
+      -webkit-box-ordinal-group: 0;
+      -ms-flex-order: -1;
+      order: -1; } }
+
+body #muiMain {
+  padding-top: 20px;
+  margin: 0;
+  width: 100%; }
+  @media (min-width: 992px) {
+    body #muiMain {
+      padding-top: 59px;
+      padding-bottom: 50px; } }
+  body #muiMain #muiBreadCrumbs p {
+    padding-bottom: 14px;
+    border-bottom: solid 1px #d8d8d8;
+    margin-bottom: 23px; }
+    @media (min-width: 992px) {
+      body #muiMain #muiBreadCrumbs p {
+        margin-bottom: 46px; } }
+    body #muiMain #muiBreadCrumbs p span.share {
+      float: right;
+      padding: 0; }
+      @media (max-width: 991px) {
+        body #muiMain #muiBreadCrumbs p span.share {
+          display: none; } }
+      body #muiMain #muiBreadCrumbs p span.share a {
+        padding: 0 5px; }
+        body #muiMain #muiBreadCrumbs p span.share a:first-of-type {
+          padding-left: 19px; }
+        body #muiMain #muiBreadCrumbs p span.share a:last-of-type {
+          padding-right: 0; }
+        body #muiMain #muiBreadCrumbs p span.share a:hover {
+          text-decoration: none; }
+    body #muiMain #muiBreadCrumbs p a {
+      color: #4e8ca5; }
+    body #muiMain #muiBreadCrumbs p span {
+      display: inline;
+      padding: 0 13px; }
+  body #muiMain #muiCont {
+    margin: 0; }
+    body #muiMain #muiCont img {
+      max-width: 100%; }
+    body #muiMain #muiCont .teaser {
+      margin-bottom: 22px;
+      height: auto; }
+      @media (min-width: 992px) {
+        body #muiMain #muiCont .teaser {
+          margin-bottom: 51px; } }
+      body #muiMain #muiCont .teaser img {
+        width: 100%; }
+    body #muiMain #muiCont h2 {
+      color: #494D4F;
+      padding-bottom: 26px;
+      margin: 0; }
+      @media (min-width: 992px) {
+        body #muiMain #muiCont h2 {
+          padding-bottom: 50px; } }
+    body #muiMain #muiCont h3 {
+      color: #494D4F;
+      margin-bottom: 30px; }
+    body #muiMain #muiCont p {
+      padding-bottom: 0;
+      margin-bottom: 30px; }
+    body #muiMain #muiCont a {
+      color: #4e8ca5; }
+    body #muiMain #muiCont .box {
+      border: none;
+      padding: 32px 33px 37px 40px; }
+      body #muiMain #muiCont .box.box1 {
+        margin-top: 40px;
+        padding-bottom: 0; }
+      body #muiMain #muiCont .box.box2 {
+        margin-bottom: 40px;
+        padding-top: 0; }
+      body #muiMain #muiCont .box.boxed {
+        float: none;
+        margin-bottom: 0;
+        background-color: rgba(179, 205, 220, 0.25); }
+        body #muiMain #muiCont .box.boxed p {
+          line-height: 1.125; }
+        body #muiMain #muiCont .box.boxed span {
+          display: block;
+          line-height: 1.5;
+          padding: 16px 0 30px 0; }
+      body #muiMain #muiCont .box.columns {
+        -webkit-column-count: 2;
+        column-count: 2; }
+        body #muiMain #muiCont .box.columns p {
+          padding-left: 18px;
+          position: relative;
+          margin-bottom: 10px;
+          line-height: 1.5; }
+          body #muiMain #muiCont .box.columns p a {
+            -webkit-hyphens: auto;
+            -ms-hyphens: auto;
+            hyphens: auto; }
+          body #muiMain #muiCont .box.columns p:before {
+            content: "";
+            position: absolute;
+            left: 0;
+            top: 50%;
+            -webkit-transform: translateY(-50%);
+            -ms-transform: translateY(-50%);
+            transform: translateY(-50%);
+            height: 13px;
+            width: 7px;
+            background-image: url("../img/pfeil-brand-primary.svg");
+            background-size: cover; }
+    body #muiMain #muiCont .box.infos p {
+      font-size: 16px; }
+    body #muiMain #muiCont .table-wrap {
+      overflow: scroll; }
+      body #muiMain #muiCont .table-wrap table {
+        width: 100%;
+        margin: 0;
+        min-width: 500px; }
+        body #muiMain #muiCont .table-wrap table tr th, body #muiMain #muiCont .table-wrap table tr td {
+          padding: 5px 10px; }
+        body #muiMain #muiCont .table-wrap table tr th {
+          background-color: #ecf2f6; }
+  body #muiMain .box {
+    padding-left: 0; }
+    body #muiMain .box.custom-box {
+      margin-bottom: 30px;
+      padding: 0; }
+      @media (min-width: 992px) {
+        body #muiMain .box.custom-box {
+          padding: 20px 0 20px 0; } }
+      body #muiMain .box.custom-box .inner-box {
+        padding: 36px 17px 37px 37px; }
+        body #muiMain .box.custom-box .inner-box .headline {
+          padding-bottom: 25px;
+          display: block;
+          line-height: 0.75; }
+        body #muiMain .box.custom-box .inner-box p {
+          padding: 0; }
+        body #muiMain .box.custom-box .inner-box a {
+          color: #4e8ca5; }
+    body #muiMain .box.shade {
+      text-align: center;
+      background-color: #ecf2f6;
+      color: #4e8ca5;
+      border: none; }
+
+body .headline-right {
+  padding: 13px 0 15px 15px;
+  background-color: #4e8ca5;
+  position: relative;
+  line-height: 1.125; }
+  @media (min-width: 992px) {
+    body .headline-right {
+      padding: 67px 0 55px 24.25742574%; } }
+  body .headline-right:before {
+    content: '';
+    position: absolute;
+    height: 100%;
+    width: 21px;
+    top: 0;
+    background-color: #4e8ca5;
+    left: 1px;
+    -webkit-transform: translateX(-100%);
+    -ms-transform: translateX(-100%);
+    transform: translateX(-100%); }
+    @media (min-width: 576px) {
+      body .headline-right:before {
+        width: calc((100vw - 510px) / 2 + 1px); } }
+    @media (min-width: 768px) {
+      body .headline-right:before {
+        width: calc((100vw - 710px) / 2 + 1px); } }
+    @media (min-width: 768px) {
+      body .headline-right:before {
+        width: calc((100vw - 710px) / 2 + 1px); } }
+    @media (min-width: 992px) {
+      body .headline-right:before {
+        width: 3px;
+        left: -3px;
+        -webkit-transform: translate(0);
+        -ms-transform: translate(0);
+        transform: translate(0); } }
+  body .headline-right:after {
+    content: '';
+    position: absolute;
+    right: 1px;
+    -webkit-transform: translateX(100%);
+    -ms-transform: translateX(100%);
+    transform: translateX(100%);
+    background-color: #4e8ca5;
+    height: 100%;
+    top: 0;
+    width: 21px; }
+    @media (min-width: 576px) {
+      body .headline-right:after {
+        width: calc((100vw - 510px) / 2 + 1px); } }
+    @media (min-width: 768px) {
+      body .headline-right:after {
+        width: calc((100vw - 710px) / 2 + 1px); } }
+    @media (min-width: 768px) {
+      body .headline-right:after {
+        width: calc((100vw - 710px) / 2 + 1px); } }
+    @media (min-width: 992px) {
+      body .headline-right:after {
+        width: 31px; } }
+    @media (min-width: 1010px) {
+      body .headline-right:after {
+        width: calc((100vw - 950px) / 2 + 1px); } }
+    @media (min-width: 1200px) {
+      body .headline-right:after {
+        width: 31px; } }
+    @media (min-width: 1230px) {
+      body .headline-right:after {
+        width: calc((100vw - 1170px) / 2 + 1px); } }
+  body .headline-right h1 {
+    margin: 0;
+    color: #fff; }
+
+body #muiRight {
+  width: 100%; }
+  @media (max-width: 991px) {
+    body #muiRight {
+      display: none; } }
+  body #muiRight .box {
+    padding-left: 24.25742574% !important; }
+    body #muiRight .box.subnav {
+      padding: 39px 0 44px 0;
+      margin: 0;
+      border-bottom: 3px solid #d8d8d8; }
+      body #muiRight .box.subnav ul li a {
+        display: block;
+        border-top: 1px solid #d8d8d8;
+        padding: 17px 0;
+        line-height: 1;
+        color: #4e8ca5; }
+      body #muiRight .box.subnav ul li ul {
+        margin: 0;
+        border-top: 1px solid #d8d8d8; }
+        body #muiRight .box.subnav ul li ul li {
+          margin-left: 15px; }
+          body #muiRight .box.subnav ul li ul li:first-of-type a {
+            background: none;
+            border-top: none; }
+          body #muiRight .box.subnav ul li ul li:hover {
+            text-decoration: underline; }
+      body #muiRight .box.subnav ul li.current > a {
+        color: #DB363D; }
+        body #muiRight .box.subnav ul li.current > a:hover {
+          text-decoration: none; }
+    body #muiRight .box.custom-box {
+      margin-bottom: 0;
+      padding: 20px 0 20px 15.59405941% !important;
+      border-bottom: 3px solid #d8d8d8; }
+      body #muiRight .box.custom-box.colored {
+        padding: 58px 0 58px 15.59405941% !important; }
+      body #muiRight .box.custom-box .inner-box {
+        padding: 36px 17px 37px 37px; }
+        body #muiRight .box.custom-box .inner-box .headline {
+          padding-bottom: 25px;
+          display: block;
+          line-height: 0.75; }
+        body #muiRight .box.custom-box .inner-box p {
+          padding: 0;
+          margin: 0; }
+        body #muiRight .box.custom-box .inner-box a {
+          color: #4e8ca5; }
+
+body #muiRightMobile .box {
+  padding-bottom: 30px;
+  border-bottom: 3px solid #d8d8d8;
+  margin-bottom: 30px; }
+  body #muiRightMobile .box.subnav {
+    padding: 39px 0 44px 0;
+    margin: 0;
+    border-bottom: 3px solid #d8d8d8;
+    margin-bottom: 30px; }
+    body #muiRightMobile .box.subnav ul li {
+      border-bottom: 1px solid #d8d8d8;
+      padding: 17px 0; }
+      body #muiRightMobile .box.subnav ul li:first-of-type {
+        border-top: 1px solid #d8d8d8; }
+      body #muiRightMobile .box.subnav ul li a {
+        line-height: 1;
+        color: #4e8ca5; }
+  body #muiRightMobile .box.custom-box .inner-box {
+    padding: 36px 17px 37px 37px; }
+    body #muiRightMobile .box.custom-box .inner-box .headline {
+      padding-bottom: 25px;
+      display: block;
+      line-height: 0.75; }
+    body #muiRightMobile .box.custom-box .inner-box p {
+      padding: 0;
+      margin: 0; }
+    body #muiRightMobile .box.custom-box .inner-box a {
+      color: #4e8ca5; }
+
+body #muiRightMobile .share {
+  padding-bottom: 31px;
+  display: block; }
+  body #muiRightMobile .share a:hover {
+    text-decoration: none; }
+
+body .blue {
+  background-color: rgba(179, 205, 220, 0.25); }
+
+body #muiSite .teaserNewsitem {
+  height: auto; }
+  body #muiSite .teaserNewsitem img {
+    height: auto;
+    width: 100%; }
+
+body #muiSite main .contentheader {
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#4d8ba5), to(#337992));
+  background-image: -webkit-linear-gradient(top, #4d8ba5 0%, #337992 100%);
+  background-image: -o-linear-gradient(top, #4d8ba5 0%, #337992 100%);
+  background-image: linear-gradient(180deg, #4d8ba5 0%, #337992 100%);
+  margin-bottom: 60px;
+  overflow: hidden; }
+  body #muiSite main .contentheader .textbox {
+    padding: 37px 15px 22px 15px; }
+    @media (min-width: 500px) {
+      body #muiSite main .contentheader .textbox {
+        padding: 50px 15px 40px 15px; } }
+    @media (min-width: 992px) {
+      body #muiSite main .contentheader .textbox {
+        padding: 95px 0 100px 15px; } }
+    body #muiSite main .contentheader .textbox h1 {
+      color: #b3cddc; }
+    body #muiSite main .contentheader .textbox p {
+      color: #fff;
+      padding-bottom: 0;
+      margin-bottom: 0; }
+  body #muiSite main .contentheader .image-col img {
+    position: relative;
+    margin-left: 5%;
+    width: 90%;
+    display: none; }
+    @media (min-width: 500px) {
+      body #muiSite main .contentheader .image-col img {
+        margin-left: 10%;
+        width: 80%; } }
+    @media (min-width: 992px) {
+      body #muiSite main .contentheader .image-col img {
+        position: absolute;
+        left: 0;
+        bottom: 0;
+        height: calc(100% + 22px);
+        width: auto; } }
+    body #muiSite main .contentheader .image-col img.active {
+      display: block; }
+
+body #muiSite main .news {
+  margin-bottom: 50px; }
+  body #muiSite main .news .headline-mobile h2 {
+    display: inline-block;
+    padding-bottom: 9px; }
+  body #muiSite main .news .headline-mobile a {
+    float: right;
+    font-size: 16px; }
+  @media (min-width: 992px) {
+    body #muiSite main .news .headline-mobile {
+      display: none; } }
+  body #muiSite main .news .carousel-wrap {
+    padding-bottom: calc(100% - 30px);
+    height: 0;
+    width: 100%;
+    position: relative; }
+    body #muiSite main .news .carousel-wrap .news-carousel {
+      height: 100%;
+      position: absolute;
+      width: 100%; }
+      @media (min-width: 992px) {
+        body #muiSite main .news .carousel-wrap .news-carousel {
+          width: calc(100% - 30px); } }
+    body #muiSite main .news .carousel-wrap .owl-stage-outer {
+      position: static;
+      height: 100%; }
+      body #muiSite main .news .carousel-wrap .owl-stage-outer .owl-stage {
+        height: 100%; }
+      body #muiSite main .news .carousel-wrap .owl-stage-outer .owl-item {
+        height: 100%; }
+        body #muiSite main .news .carousel-wrap .owl-stage-outer .owl-item .item {
+          position: relative;
+          width: 100%;
+          height: 100%; }
+          body #muiSite main .news .carousel-wrap .owl-stage-outer .owl-item .item .background-image {
+            background-size: cover;
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            background-position: center; }
+            body #muiSite main .news .carousel-wrap .owl-stage-outer .owl-item .item .background-image p {
+              position: absolute;
+              color: #fff;
+              padding-bottom: 0;
+              margin-bottom: 0;
+              bottom: 60px;
+              left: 29px;
+              font-size: 19px;
+              right: 29px; }
+              @media (min-width: 992px) {
+                body #muiSite main .news .carousel-wrap .owl-stage-outer .owl-item .item .background-image p {
+                  bottom: 70px;
+                  left: 40px;
+                  font-size: 32px;
+                  right: 40px; } }
+              body #muiSite main .news .carousel-wrap .owl-stage-outer .owl-item .item .background-image p a {
+                font-size: 20px;
+                color: #fff;
+                white-space: nowrap;
+                display: block; }
+                body #muiSite main .news .carousel-wrap .owl-stage-outer .owl-item .item .background-image p a svg, body #muiSite main .news .carousel-wrap .owl-stage-outer .owl-item .item .background-image p a img {
+                  height: 12px;
+                  width: 7px;
+                  display: inline-block; }
+            body #muiSite main .news .carousel-wrap .owl-stage-outer .owl-item .item .background-image:before {
+              left: 0;
+              content: '';
+              position: absolute;
+              bottom: 0;
+              width: 100%;
+              height: 50%;
+              background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0)), to(#000000));
+              background-image: -webkit-linear-gradient(top, rgba(0, 0, 0, 0) 0%, #000000 100%);
+              background-image: -o-linear-gradient(top, rgba(0, 0, 0, 0) 0%, #000000 100%);
+              background-image: linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, #000000 100%);
+              opacity: 0.75; }
+    body #muiSite main .news .carousel-wrap .owl-dots {
+      position: absolute;
+      bottom: 28px;
+      left: 29px; }
+      @media (min-width: 992px) {
+        body #muiSite main .news .carousel-wrap .owl-dots {
+          bottom: 42px;
+          left: 40px; } }
+      body #muiSite main .news .carousel-wrap .owl-dots .owl-dot {
+        outline: none !important; }
+        body #muiSite main .news .carousel-wrap .owl-dots .owl-dot span {
+          background-color: #fff; }
+        body #muiSite main .news .carousel-wrap .owl-dots .owl-dot.active span {
+          background-color: #4e8ca5; }
+        body #muiSite main .news .carousel-wrap .owl-dots .owl-dot:hover span {
+          background-color: #4e8ca5; }
+  body #muiSite main .news .headline {
+    padding: 20px 0 12px 0;
+    border-bottom: 1px solid #d8d8d8; }
+    @media (min-width: 992px) {
+      body #muiSite main .news .headline {
+        padding-bottom: 35px;
+        margin-left: -30px; } }
+    body #muiSite main .news .headline h2 {
+      line-height: 1;
+      display: none;
+      padding-left: 30px; }
+      @media (min-width: 992px) {
+        body #muiSite main .news .headline h2 {
+          display: inline-block; } }
+    body #muiSite main .news .headline a {
+      display: none;
+      margin-top: 21px;
+      float: right; }
+      @media (min-width: 992px) {
+        body #muiSite main .news .headline a {
+          display: inline-block; } }
+    @media (min-width: 992px) {
+      body #muiSite main .news .headline span {
+        display: none; } }
+  body #muiSite main .news .newsblock1, body #muiSite main .news .newsblock2 {
+    margin-left: 0;
+    padding: 40px 0 27px 0;
+    border-bottom: 1px solid #d8d8d8; }
+    @media (min-width: 992px) {
+      body #muiSite main .news .newsblock1, body #muiSite main .news .newsblock2 {
+        margin-left: -30px;
+        padding: 40px 0 27px 30px; } }
+    body #muiSite main .news .newsblock1 img, body #muiSite main .news .newsblock2 img {
+      float: left;
+      width: 92px; }
+      @media (min-width: 500px) {
+        body #muiSite main .news .newsblock1 img, body #muiSite main .news .newsblock2 img {
+          width: 150px; } }
+      @media (min-width: 992px) {
+        body #muiSite main .news .newsblock1 img, body #muiSite main .news .newsblock2 img {
+          width: 140px; } }
+      @media (min-width: 1200px) {
+        body #muiSite main .news .newsblock1 img, body #muiSite main .news .newsblock2 img {
+          width: 161px; } }
+    body #muiSite main .news .newsblock1 .content, body #muiSite main .news .newsblock2 .content {
+      padding-left: 110px; }
+      @media (min-width: 500px) {
+        body #muiSite main .news .newsblock1 .content, body #muiSite main .news .newsblock2 .content {
+          padding-left: 190px; } }
+      @media (min-width: 992px) {
+        body #muiSite main .news .newsblock1 .content, body #muiSite main .news .newsblock2 .content {
+          padding-left: 170px; } }
+      @media (min-width: 1200px) {
+        body #muiSite main .news .newsblock1 .content, body #muiSite main .news .newsblock2 .content {
+          padding-left: 200px; } }
+      body #muiSite main .news .newsblock1 .content span, body #muiSite main .news .newsblock2 .content span {
+        font-size: 14px;
+        line-height: 0.82; }
+      body #muiSite main .news .newsblock1 .content h3, body #muiSite main .news .newsblock2 .content h3 {
+        font-size: 20px; }
+      body #muiSite main .news .newsblock1 .content p, body #muiSite main .news .newsblock2 .content p {
+        font-size: 20px;
+        padding: 0;
+        margin: 0; }
+        body #muiSite main .news .newsblock1 .content p a, body #muiSite main .news .newsblock2 .content p a {
+          color: #4e8ca5;
+          position: relative;
+          padding-left: 14px; }
+          body #muiSite main .news .newsblock1 .content p a:before, body #muiSite main .news .newsblock2 .content p a:before {
+            content: "";
+            position: absolute;
+            left: 0;
+            top: 50%;
+            -webkit-transform: translateY(-50%);
+            -ms-transform: translateY(-50%);
+            transform: translateY(-50%);
+            height: 13px;
+            width: 7px;
+            background-image: url("../img/pfeil-brand-primary.svg");
+            background-size: cover; }
+
+body #muiSite main .news-teaser .carousel-col {
+  padding-bottom: 68px;
+  border-bottom: 1px solid #d8d8d8;
+  margin-bottom: 50px; }
+
+body #muiSite main .news-teaser .carousel-wrap {
+  position: relative;
+  padding: 0 66px 0 66px; }
+  body #muiSite main .news-teaser .carousel-wrap:after {
+    content: '';
+    position: absolute;
+    left: 66px;
+    top: 0;
+    height: 100%;
+    width: 1px;
+    background-color: #fff;
+    z-index: 1; }
+  body #muiSite main .news-teaser .carousel-wrap .custom-nav .customNextBtn {
+    width: 46px;
+    height: 46px;
+    background-color: #4e8ca5;
+    border-radius: 23px;
+    position: absolute;
+    right: 0;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%); }
+    body #muiSite main .news-teaser .carousel-wrap .custom-nav .customNextBtn svg, body #muiSite main .news-teaser .carousel-wrap .custom-nav .customNextBtn img {
+      width: 7px;
+      height: 13px;
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      -webkit-transform: translateX(-50%) translateY(-50%);
+      -ms-transform: translateX(-50%) translateY(-50%);
+      transform: translateX(-50%) translateY(-50%); }
+  body #muiSite main .news-teaser .carousel-wrap .custom-nav .customPrevBtn {
+    width: 46px;
+    height: 46px;
+    background-color: #4e8ca5;
+    border-radius: 23px;
+    position: absolute;
+    left: 0;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%); }
+    body #muiSite main .news-teaser .carousel-wrap .custom-nav .customPrevBtn svg, body #muiSite main .news-teaser .carousel-wrap .custom-nav .customPrevBtn img {
+      width: 7px;
+      height: 13px;
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      -webkit-transform: translateX(-50%) translateY(-50%) rotate(180deg);
+      -ms-transform: translateX(-50%) translateY(-50%) rotate(180deg);
+      transform: translateX(-50%) translateY(-50%) rotate(180deg); }
+  body #muiSite main .news-teaser .carousel-wrap .owl-item {
+    float: none;
+    vertical-align: middle;
+    display: inline-block; }
+  body #muiSite main .news-teaser .carousel-wrap .item {
+    padding: 0 15px; }
+    @media (min-width: 768px) {
+      body #muiSite main .news-teaser .carousel-wrap .item {
+        padding: 0 40px; } }
+    @media (min-width: 992px) {
+      body #muiSite main .news-teaser .carousel-wrap .item {
+        border-left: solid 1px #d8d8d8; } }
+    body #muiSite main .news-teaser .carousel-wrap .item span.headline {
+      line-height: 1;
+      padding-bottom: 12px; }
+      @media (min-width: 992px) {
+        body #muiSite main .news-teaser .carousel-wrap .item span.headline {
+          padding-bottom: 31px; } }
+    body #muiSite main .news-teaser .carousel-wrap .item span.date {
+      line-height: 1;
+      padding-bottom: 11px; }
+      @media (min-width: 992px) {
+        body #muiSite main .news-teaser .carousel-wrap .item span.date {
+          padding-bottom: 6px; } }
+    body #muiSite main .news-teaser .carousel-wrap .item p {
+      margin-bottom: 0;
+      padding-bottom: 23px;
+      line-height: 1.5; }
+    body #muiSite main .news-teaser .carousel-wrap .item.with-image {
+      padding: 180px 20px 16px 20px; }
+      @media (min-width: 500px) {
+        body #muiSite main .news-teaser .carousel-wrap .item.with-image {
+          padding: 19px 20px 16px 200px; } }
+      @media (min-width: 992px) {
+        body #muiSite main .news-teaser .carousel-wrap .item.with-image {
+          padding: 19px 60px 16px 220px; } }
+      @media (min-width: 1200px) {
+        body #muiSite main .news-teaser .carousel-wrap .item.with-image {
+          padding: 19px 60px 16px 240px; } }
+      body #muiSite main .news-teaser .carousel-wrap .item.with-image .background {
+        position: absolute;
+        top: 0;
+        left: 0;
+        height: 100%;
+        right: 0;
+        background-color: #ECF2F6;
+        z-index: -1; }
+        @media (min-width: 992px) {
+          body #muiSite main .news-teaser .carousel-wrap .item.with-image .background {
+            left: 40px;
+            right: 40px; } }
+      body #muiSite main .news-teaser .carousel-wrap .item.with-image img {
+        position: absolute;
+        padding-left: 0;
+        top: 20px;
+        left: 20px;
+        width: auto;
+        height: 160px; }
+        @media (min-width: 500px) {
+          body #muiSite main .news-teaser .carousel-wrap .item.with-image img {
+            width: auto;
+            left: 0;
+            height: 100%;
+            top: 0; } }
+        @media (min-width: 992px) {
+          body #muiSite main .news-teaser .carousel-wrap .item.with-image img {
+            height: auto;
+            width: 200px;
+            padding-left: 40px; } }
+        @media (min-width: 1200px) {
+          body #muiSite main .news-teaser .carousel-wrap .item.with-image img {
+            height: 100%;
+            width: auto; } }
+
+body #muiSite main .competence-links {
+  margin-bottom: 10px; }
+  @media (min-width: 1200px) {
+    body #muiSite main .competence-links h3 {
+      margin-top: 15px; } }
+  body #muiSite main .competence-links .link-box {
+    margin-bottom: 40px; }
+    body #muiSite main .competence-links .link-box .background-image {
+      padding-bottom: 70%;
+      background-size: cover;
+      height: 0;
+      position: relative; }
+      body #muiSite main .competence-links .link-box .background-image:before {
+        content: '';
+        width: 100%;
+        position: absolute;
+        height: 50%;
+        bottom: 0;
+        background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0)), to(#4e8ca5));
+        background-image: -webkit-linear-gradient(top, rgba(0, 0, 0, 0) 0%, #4e8ca5 100%);
+        background-image: -o-linear-gradient(top, rgba(0, 0, 0, 0) 0%, #4e8ca5 100%);
+        background-image: linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, #4e8ca5 100%);
+        opacity: 0.65;
+        left: 0; }
+      body #muiSite main .competence-links .link-box .background-image a {
+        position: absolute;
+        left: 0;
+        top: 0;
+        height: 100%;
+        width: 100%; }
+        body #muiSite main .competence-links .link-box .background-image a span {
+          position: absolute;
+          bottom: 22px;
+          left: 40px;
+          padding-left: 24px;
+          color: #fff; }
+          body #muiSite main .competence-links .link-box .background-image a span:before {
+            content: "";
+            position: absolute;
+            left: 0;
+            top: 50%;
+            -webkit-transform: translateY(-50%);
+            -ms-transform: translateY(-50%);
+            transform: translateY(-50%);
+            height: 13px;
+            width: 7px;
+            background-image: url("../img/pfeil.svg");
+            background-size: cover; }
+
+body #muiSite main .banner {
+  position: relative;
+  margin-bottom: 50px; }
+  body #muiSite main .banner .full-banner-link {
+    position: absolute;
+    height: 100%;
+    left: 15px;
+    top: 0;
+    right: 15px; }
+  body #muiSite main .banner .text-half {
+    overflow: hidden;
+    padding-bottom: 28%;
+    margin: 0 15px; }
+    @media (min-width: 992px) {
+      body #muiSite main .banner .text-half {
+        padding: 0;
+        margin: 0; } }
+    body #muiSite main .banner .text-half img {
+      position: absolute;
+      left: 50%;
+      top: 50%;
+      -webkit-transform: translateX(-50%) translateY(-50%);
+      -ms-transform: translateX(-50%) translateY(-50%);
+      transform: translateX(-50%) translateY(-50%);
+      width: 120%;
+      height: auto; }
+    body #muiSite main .banner .text-half .content {
+      padding: 35px 15px 40px 30px;
+      background-color: #DB363D; }
+      body #muiSite main .banner .text-half .content p {
+        line-height: 1;
+        color: #fff;
+        padding: 0;
+        margin: 0; }
+        body #muiSite main .banner .text-half .content p span {
+          color: #232323;
+          line-height: 1.125; }
+  @media (min-width: 992px) {
+    body #muiSite main .banner .image-half {
+      padding-left: 0; } }
+  body #muiSite main .banner .image-half .background-image {
+    background-size: cover;
+    background-position: center center;
+    padding-bottom: 32%; }
+    @media (min-width: 500px) {
+      body #muiSite main .banner .image-half .background-image {
+        padding-bottom: 28%; } }
+    @media (min-width: 992px) {
+      body #muiSite main .banner .image-half .background-image {
+        height: 100%; } }
+    body #muiSite main .banner .image-half .background-image span {
+      background-color: #DB363D;
+      position: absolute;
+      right: 15px;
+      bottom: 0;
+      font-size: 12px;
+      line-height: 1.25;
+      padding: 7px 15px 3px 18px; }
+
+body #muiSite main .calendar {
+  padding-bottom: 100px; }
+  body #muiSite main .calendar h2 {
+    display: inline-block; }
+  body #muiSite main .calendar .calendar-control {
+    float: right; }
+    body #muiSite main .calendar .calendar-control:first-of-type {
+      margin-left: 10px; }
+  body #muiSite main .calendar .calendar-table {
+    border-top: 3px solid #d8d8d8; }
+    body #muiSite main .calendar .calendar-table:nth-of-type(2) {
+      margin-top: 23px; }
+    body #muiSite main .calendar .calendar-table:last-of-type {
+      border-bottom: 3px solid #d8d8d8;
+      margin-bottom: 45px; }
+    body #muiSite main .calendar .calendar-table .date {
+      padding-top: 15px;
+      line-height: 1.187;
+      text-align: center;
+      border-bottom: 3px solid #d8d8d8;
+      padding-bottom: 10px; }
+      @media (min-width: 992px) {
+        body #muiSite main .calendar .calendar-table .date {
+          border-bottom: none;
+          border-right: 3px solid #d8d8d8;
+          padding-bottom: 0; } }
+    body #muiSite main .calendar .calendar-table .time {
+      border-right: 3px solid #d8d8d8;
+      border-bottom: 1px solid #d8d8d8; }
+      body #muiSite main .calendar .calendar-table .time:nth-last-of-type(2) {
+        border-bottom: none; }
+      body #muiSite main .calendar .calendar-table .time .timeblock {
+        text-align: center;
+        padding: 25px 0 18px 0; }
+    body #muiSite main .calendar .calendar-table .description {
+      border-bottom: 1px solid #d8d8d8; }
+      body #muiSite main .calendar .calendar-table .description:last-of-type {
+        border-bottom: none; }
+      body #muiSite main .calendar .calendar-table .description .descriptionblock p {
+        line-height: 1.25;
+        margin: 0;
+        padding: 25px 0 18px 0; }
+        body #muiSite main .calendar .calendar-table .description .descriptionblock p a {
+          color: #4e8ca5; }
+  body #muiSite main .calendar .button-wrap {
+    display: block;
+    text-align: center; }
+
+body #muiSite #search {
+  background: none;
+  border: none; }
+  body #muiSite #search .formSect {
+    padding: 2px 10px; }
+    body #muiSite #search .formSect .formItem {
+      position: relative; }
+      body #muiSite #search .formSect .formItem input.text {
+        font-size: 16px;
+        border: none;
+        border-bottom: 1px solid #d8d8d8;
+        outline: none; }
+      body #muiSite #search .formSect .formItem input.lupe {
+        background: url("../themes/imed_neu/img/Search_Icon.svg") no-repeat 0 0;
+        margin-left: -25px;
+        outline: none; }
+      body #muiSite #search .formSect .formItem .button.right {
+        position: absolute;
+        margin: 0;
+        background: none;
+        border: none;
+        right: 0;
+        left: auto;
+        height: auto;
+        top: 50%;
+        -webkit-transform: translateY(-50%);
+        -ms-transform: translateY(-50%);
+        transform: translateY(-50%); }
+        body #muiSite #search .formSect .formItem .button.right a {
+          padding: 6px 20px;
+          color: #fff;
+          background-color: #4e8ca5;
+          display: block;
+          font-size: 16px;
+          height: auto; }
+
+body #muiSite ul.sresult li {
+  margin-left: 0 !important;
+  margin-top: 20px;
+  border-bottom: 1px solid #d8d8d8; }
+  body #muiSite ul.sresult li:last-of-type {
+    border-bottom: none; }
+
+body #muiSite p.pager {
+  border: solid 1px #d8d8d8; }
+
+body #muiSite .gsa_sr_pn_nr {
+  font-weight: 400; }
+
+body #muiSite #psuche .formItem {
+  padding-left: 0; }
+  body #muiSite #psuche .formItem label {
+    width: 50%;
+    margin-right: 0; }
+  body #muiSite #psuche .formItem select {
+    font-size: 20px;
+    background: none;
+    width: 50%;
+    margin-right: 0; }
+  body #muiSite #psuche .formItem input[type=text] {
+    font-size: 18px;
+    padding: 3px 10px;
+    width: 50%;
+    margin-right: 0;
+    background: none; }
+  body #muiSite #psuche .formItem input[type=submit] {
+    padding: 4px 30px; }
+
+body #muiSite .news_teaser {
+  padding: 30px 0;
+  border-bottom: 1px solid #d8d8d8; }
+  body #muiSite .news_teaser:first-of-type {
+    padding-top: 40px; }
+  body #muiSite .news_teaser:last-of-type {
+    border: none; }
+  body #muiSite .news_teaser p {
+    margin-bottom: 0; }
+
+body #muiSite h4.layout {
+  margin-bottom: 15px; }
