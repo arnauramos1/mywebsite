@@ -5,7 +5,7 @@ format:
     include-in-header:
       text: |
         <style>
-          .video-container {
+          .gif-container {
             border-radius: 8px;
             overflow: hidden;
             box-shadow: 0 4px 8px rgba(0,0,0,0.1);
@@ -13,9 +13,10 @@ format:
             margin: 0 auto;
           }
           
-          video {
+          .gif-image {
             display: block;
             width: 100%;
+            height: auto;
           }
           
           .title {
@@ -67,11 +68,8 @@ format:
 ---
 
 ```{=html}
-<div class="video-container">
-  <video controls autoplay loop muted>
-    <source src="videos/Example_Video.mp4" type="video/mp4">
-    Your browser does not support MP4 videos.
-  </video>
+<div class="gif-container">
+  <img src="images/gifneurons.gif" alt="Neurons Animation" class="gif-image">
 </div>
 ```
 
@@ -80,7 +78,7 @@ Welcome to the Ramos Prats Lab. Our research focuses on understanding the neural
 :::
 
 ::: {.button-container}
-[Research]{.custom-btn .btn-primary}
+[Research](research.html){.custom-btn .btn-primary}
 [Publications](publications.html){.custom-btn .btn-secondary}
 [Team](people.html){.custom-btn .btn-info}
 :::
